@@ -5,6 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://marco.dev"
 url_https: "https://marco.dev"
 repository_url: "https://github.com/marco76/marco.dev/blob/master/"
+comments: true
 
 news: "[Garbage Collectors for busy Java developers (10 min, no maths ;) )](https://marco.dev/garbage-collectors-intro)"
 # User settings
