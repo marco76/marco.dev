@@ -4,7 +4,7 @@ title: Use Groovy has Spring bean in a JSF web application
 date: 2009-04-01T08:25:43+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=55
+guid: https://molteni.wordpress.com/?p=55
 permalink: /2009/04/01/use-groovy-in-a-spring-jsf-web-application/
 categories:
   - Groovy

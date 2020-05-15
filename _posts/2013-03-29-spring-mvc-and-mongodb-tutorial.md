@@ -61,7 +61,7 @@ In the servlet-context we configure the connection to the database and we create
 
 Here you can see how simple his our class structure:
 
-<img alt="Screen Shot 2013-03-29 at 19.35.57.png" src="http://molteni.files.wordpress.com/2013/03/screen-shot-2013-03-29-at-19-35-571.png?resize=269%2C189" border="0" data-recalc-dims="1" />
+<img alt="Screen Shot 2013-03-29 at 19.35.57.png" src="https://molteni.files.wordpress.com/2013/03/screen-shot-2013-03-29-at-19-35-571.png?resize=269%2C189" border="0" data-recalc-dims="1" />
 
 We use a Person class to store the data in the database:
 
@@ -139,13 +139,13 @@ The interface is used in our HomeController to retrieve the list of people recor
 
 Here the result:
 
-<img alt="Screen Shot 2013-03-29 at 19.47.23.png" src="http://molteni.files.wordpress.com/2013/03/screen-shot-2013-03-29-at-19-47-23.png?resize=272%2C207" border="0" data-recalc-dims="1" />
+<img alt="Screen Shot 2013-03-29 at 19.47.23.png" src="https://molteni.files.wordpress.com/2013/03/screen-shot-2013-03-29-at-19-47-23.png?resize=272%2C207" border="0" data-recalc-dims="1" />
 
 Alternatively we can use MongoTemplate as in the MainMongo class or in the PersonController where we mix MongoTemplate and CrudRepository just to show the possibilities that Spring give to the developer:
 
 We have a very poor page that allows to add a new Person:
   
-<img alt="Screen Shot 2013-03-29 at 20.20.43.png" src="http://molteni.files.wordpress.com/2013/03/screen-shot-2013-03-29-at-20-20-431.png?resize=237%2C149" border="0" data-recalc-dims="1" />
+<img alt="Screen Shot 2013-03-29 at 20.20.43.png" src="https://molteni.files.wordpress.com/2013/03/screen-shot-2013-03-29-at-20-20-431.png?resize=237%2C149" border="0" data-recalc-dims="1" />
 
 when the user click on &#8216;Save&#8217; the method addPerson is called:
 

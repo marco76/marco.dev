@@ -4,7 +4,7 @@ title: JMockit with Maven, Sonar, JaCoCo and Jenkins/Hudson
 date: 2012-10-09T08:21:54+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=164
+guid: https://molteni.wordpress.com/?p=164
 permalink: /2012/10/09/jmockit-with-maven-sonar-jacoco-and-jenkinshudson/
 jabber_published:
   - "1349767315"

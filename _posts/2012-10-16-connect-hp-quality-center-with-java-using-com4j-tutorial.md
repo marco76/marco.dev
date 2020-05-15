@@ -4,7 +4,7 @@ title: 'Connect to HP Quality Center using Java and com4j &#8211; Tutorial (part
 date: 2012-10-16T15:00:46+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=188
+guid: https://molteni.wordpress.com/?p=188
 permalink: /2012/10/16/connect-hp-quality-center-with-java-using-com4j-tutorial/
 jabber_published:
   - "1350396046"
@@ -28,7 +28,7 @@ You should find the OtaClient.dll in the following folder:
 
 c:Program Files (x86)Common FilesMercuryInteractiveQuality Center
 
-[<img class="alignnone size-full wp-image-190" title="qc_Ota_dll" alt="" src="http://molteni.files.wordpress.com/2012/10/qc_ota_dll1.png?resize=577%2C111" data-recalc-dims="1" />](http://molteni.files.wordpress.com/2012/10/qc_ota_dll1.png?resize=577%2C111)
+[<img class="alignnone size-full wp-image-190" title="qc_Ota_dll" alt="" src="https://molteni.files.wordpress.com/2012/10/qc_ota_dll1.png?resize=577%2C111" data-recalc-dims="1" />](https://molteni.files.wordpress.com/2012/10/qc_ota_dll1.png?resize=577%2C111)
 
 If you cannot find the library try to use the search features of Windows. This library is required to communicate to the server.
 
@@ -42,7 +42,7 @@ When you downloaded the library you have to unzip it. As example I unzipped it i
 
 Because com4j is not compatible with 64 bit systems, use a 32 bit JRE or you will get:
 
-[<img class="alignnone size-full wp-image-185" title="qc_error" alt="" src="http://molteni.files.wordpress.com/2012/10/qc_error.png?resize=595%2C257" data-recalc-dims="1" />](http://molteni.files.wordpress.com/2012/10/qc_error.png?resize=595%2C257)
+[<img class="alignnone size-full wp-image-185" title="qc_error" alt="" src="https://molteni.files.wordpress.com/2012/10/qc_error.png?resize=595%2C257" data-recalc-dims="1" />](https://molteni.files.wordpress.com/2012/10/qc_error.png?resize=595%2C257)
 
 Execute the tblimp.jar with a 32-bit JRE, you can use the following parameters:
 
@@ -50,15 +50,15 @@ Execute the tblimp.jar with a 32-bit JRE, you can use the following parameters:
 
 -p is for the java package of destination
 
-[<img class="alignnone size-full wp-image-184" title="exe" alt="" src="http://molteni.files.wordpress.com/2012/10/exe.png?resize=595%2C45" data-recalc-dims="1" />](http://molteni.files.wordpress.com/2012/10/exe.png?resize=595%2C45)
+[<img class="alignnone size-full wp-image-184" title="exe" alt="" src="https://molteni.files.wordpress.com/2012/10/exe.png?resize=595%2C45" data-recalc-dims="1" />](https://molteni.files.wordpress.com/2012/10/exe.png?resize=595%2C45)
 
 You could have few warning:
 
-[<img class="alignnone size-full wp-image-187" title="qc_result" alt="" src="http://molteni.files.wordpress.com/2012/10/qc_result.png?resize=343%2C357" data-recalc-dims="1" />](http://molteni.files.wordpress.com/2012/10/qc_result.png?resize=343%2C357)
+[<img class="alignnone size-full wp-image-187" title="qc_result" alt="" src="https://molteni.files.wordpress.com/2012/10/qc_result.png?resize=343%2C357" data-recalc-dims="1" />](https://molteni.files.wordpress.com/2012/10/qc_result.png?resize=343%2C357)
 
 but at the end you should have your the sources ready under hpqc/com/qc:
 
-[<img class="alignnone size-full wp-image-186" title="qc_java" alt="" src="http://molteni.files.wordpress.com/2012/10/qc_java.png?resize=324%2C638" data-recalc-dims="1" />](http://molteni.files.wordpress.com/2012/10/qc_java.png?resize=324%2C638)
+[<img class="alignnone size-full wp-image-186" title="qc_java" alt="" src="https://molteni.files.wordpress.com/2012/10/qc_java.png?resize=324%2C638" data-recalc-dims="1" />](https://molteni.files.wordpress.com/2012/10/qc_java.png?resize=324%2C638)
 
 You can import these sources to connect and use QC from your application.
 

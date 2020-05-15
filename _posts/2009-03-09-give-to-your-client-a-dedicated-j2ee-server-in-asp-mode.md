@@ -4,7 +4,7 @@ title: Give to your client a dedicated J2EE server in ASP mode
 date: 2009-03-09T15:58:54+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=33
+guid: https://molteni.wordpress.com/?p=33
 permalink: /2009/03/09/give-to-your-client-a-dedicated-j2ee-server-in-asp-mode/
 categories:
   - java

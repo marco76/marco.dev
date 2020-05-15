@@ -4,7 +4,7 @@ title: Connect to HP Quality Center using Java
 date: 2011-10-20T15:53:16+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=116
+guid: https://molteni.wordpress.com/?p=116
 permalink: /2011/10/20/connect-to-hp-quality-center-using-java/
 jabber_published:
   - "1319122398"
