@@ -10,7 +10,6 @@ color: '#7AAB13'
 permalink: /tomee-contribute-is-not-easy/
 categories:
   - Java EE
-  - TomEE
 tags:
   - Java EE
  

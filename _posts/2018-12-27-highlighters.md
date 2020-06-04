@@ -8,9 +8,9 @@ main-class: 'javascript'
 color: '#7AAB13'
 permalink: /highlighters-shadow-dom
 categories:
-  - Web, Javascript
+  - Javascript
 tags:
-  - Web, Javascript
+  - Javascript
  
 image: '/assets/img/'
 

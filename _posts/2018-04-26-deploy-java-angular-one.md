@@ -13,8 +13,8 @@ categories:
   - Java
   - Spring
 tags:
-  - angular
-  - java
+  - Angular
+  - Java
  
 image: '/assets/img/'
 

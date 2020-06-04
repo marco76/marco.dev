@@ -1,13 +1,14 @@
 ---
 layout: default
 main-class: 'angular'
+main-class-title: 'Angular'
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="title-category">HTML</h1>
+    <h1 class="title-category">{{page.main-class-title}}</h1>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        {% if post.main-class == 'html' %}
+        {% if post.main-class == page.main-class or post.tags contains page.main-class-title or post.tags contains page.main-class%}
             <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <span class="ribbon"><span>{{post.main-class}}</span></span>
                     <div class="box-body">
@@ -15,12 +16,12 @@ main-class: 'angular'
                         <time datetime="{{ post.date | date_to_xmlschema }}">
                             {{ post.date | date: "%B %d, %Y" }}
                         </time>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                        <a href="{{ post.url | prepend: site.url }}">
                             <h2 class="post-title" itemprop="name">
                                 {{ post.title }}
                             </h2>
                         </a>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                        <a  href="{{ post.url | prepend: site.url }}">
                             <p class="description">{{ post.introduction }}</p>
                         </a>
                         <div class="tags">

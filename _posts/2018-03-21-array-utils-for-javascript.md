@@ -14,8 +14,8 @@ categories:
   - Array
   - Javascript 
 tags:
-  - angular
-  - typescript
+  - Angular
+  - Typescript
  
 image: '/assets/img/'
 

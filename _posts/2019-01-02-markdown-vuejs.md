@@ -8,9 +8,9 @@ main-class: 'vue.js'
 color: '#7AAB13'
 permalink: /markdown-vuejs
 categories:
-  - Web, Javascript, Vue
+  - Vue
 tags:
-  - Web, Javascript, Vue
+  - Vue
  
 image: '/assets/img/'
 

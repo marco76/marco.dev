@@ -14,8 +14,7 @@ categories:
   - DevOps
   - Spring
 tags:
-  - java
-  - devops
+  - Java
  
 image: '/assets/img/'
 

@@ -10,7 +10,7 @@ permalink: /2018/05/16/new-angular-project-i-wish-i-knew/
 categories:
   - Angular
 tags:
-  - angular
+  - Angular
  
 image: '/assets/img/'
 

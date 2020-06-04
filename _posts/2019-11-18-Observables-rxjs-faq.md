@@ -8,9 +8,11 @@ main-class: 'angular'
 color: '#7AAB13'
 permalink: /rxjs-tutorial
 categories:
-  - Angular, rxjs
+  - Angular
+  - Rxjs
 tags:
   - Angular
+  - Rxjs
 
 introduction: 'Common questions about Observables'
 ---

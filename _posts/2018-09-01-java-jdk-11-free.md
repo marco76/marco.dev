@@ -10,7 +10,7 @@ permalink: /jdk-11-free/
 categories:
   - Java
 tags:
-  - java
+  - Java
  
 image: '/assets/img/'
 

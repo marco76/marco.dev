@@ -10,7 +10,7 @@ permalink: /2018/07/24/angular-master-detail-table/
 categories:
   - Angular
 tags:
-  - angular
+  - Angular
  
 image: '/assets/img/'
 
@@ -77,4 +77,3 @@ Definition of the template in the html:
   </div>
 </ng-template>
 ```
- 

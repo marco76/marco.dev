@@ -8,9 +8,11 @@ main-class: 'java'
 color: '#7AAB13'
 permalink: /java-angular-setup
 categories:
-  - Java, Angular
+  - Java
+  - Angular
 tags:
-  - Java, Angular
+  - Java
+  - Angular
 
 introduction: 'Quick and easy install Java and Angular'
 ---

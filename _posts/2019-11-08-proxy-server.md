@@ -8,9 +8,11 @@ main-class: 'angular'
 color: '#7AAB13'
 permalink: /local-test-proxy-server
 categories:
-  - Angular, Javascript
+  - Angular
+  - Javascript
 tags:
-  - Angular, Javascript, Frontend, REST
+  - Angular
+  - Javascript
 
 introduction: 'Mix local and remote REST answers to speed up frontend dev'
 ---

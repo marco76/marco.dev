@@ -11,7 +11,7 @@ categories:
   - Angular
   - SEO
 tags:
-  - angular
+  - Angular
   - seo
  
 image: '/assets/img/'

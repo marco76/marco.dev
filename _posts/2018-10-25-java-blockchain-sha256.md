@@ -11,8 +11,8 @@ categories:
   - Java
   - Blockchain
 tags:
-  - java
-  - blockchain
+  - Java
+  - Blockchain
  
 image: '/assets/img/'
 

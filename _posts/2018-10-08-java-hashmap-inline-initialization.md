@@ -9,7 +9,7 @@ permalink: /hashmap-inline-initialization/
 categories:
   - Java
 tags:
-  - java
+  - Java
  
 image: '/assets/img/'
 

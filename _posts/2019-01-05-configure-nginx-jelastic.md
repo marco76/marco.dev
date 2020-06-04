@@ -8,9 +8,11 @@ main-class: 'cloud'
 color: '#7AAB13'
 permalink: /nginx-jelastic
 categories:
-  - Java, Cloud
+  - Java
+  - Cloud
 tags:
-  - Java, Cloud
+  - Java
+  - Cloud
  
 image: '/assets/img/'
 

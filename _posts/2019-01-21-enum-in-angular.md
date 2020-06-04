@@ -8,9 +8,9 @@ main-class: 'angular'
 color: '#7AAB13'
 permalink: /enums-angular
 categories:
-  - Angular, TypeScript, JavaScript
+  - Angular
 tags:
-  - Angular, TypeScript, JavaScript
+  - Angular
  
 image: '/assets/img/'
 

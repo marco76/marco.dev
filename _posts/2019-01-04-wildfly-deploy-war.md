@@ -8,9 +8,9 @@ main-class: 'javaee'
 color: '#7AAB13'
 permalink: /use-wildfly-deploy-root
 categories:
-  - JavaEE, WildFly
+  - JavaEE
 tags:
-  - JavaEE, WildFly
+  - JavaEE
  
 image: '/assets/img/'
 

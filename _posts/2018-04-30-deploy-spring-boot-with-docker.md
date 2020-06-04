@@ -12,7 +12,7 @@ categories:
   - Java
   - Spring
 tags:
-  - spring
+  - Spring
   - java
  
 image: '/assets/img/'

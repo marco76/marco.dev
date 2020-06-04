@@ -10,7 +10,7 @@ permalink: /2018/08/11/spring-integration-send-mail/
 categories:
   - Spring
 tags:
-  - spring
+  - Spring
  
 image: '/assets/img/'
 

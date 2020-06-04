@@ -8,9 +8,9 @@ main-class: 'java'
 color: '#7AAB13'
 permalink: /garbage-collectors-intro
 categories:
-  - Java, JDK
+  - Java
 tags:
-  - Java, JDK, Shenandoah, XGC
+  - Java
 video_id: 363508553
 image: '/assets/img/uploads/2019/javazone_1.jpg'
 

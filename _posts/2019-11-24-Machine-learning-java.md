@@ -8,9 +8,11 @@ main-class: 'java'
 color: '#7AAB13'
 permalink: /artificial-intelligence-java
 categories:
-  - Java, artificial intelligence
+  - Java
+  - AI
 tags:
-  - Java, artificial intelligence, machine learning
+  - Java
+  - AI
 
 introduction: 'AI and ML resources for Java developers'
 ---

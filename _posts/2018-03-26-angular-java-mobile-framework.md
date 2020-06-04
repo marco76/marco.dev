@@ -16,7 +16,7 @@ categories:
   - NativeScript
   - Firebase
 tags:
-  - angular
+  - Angular
   - mobile
  
 image: '/assets/img/'

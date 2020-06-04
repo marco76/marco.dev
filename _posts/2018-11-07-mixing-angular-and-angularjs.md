@@ -9,10 +9,8 @@ color: '#7AAB13'
 permalink: migration-from-angularjs-to-angular/
 categories:
   - Angular
-  - AngularJS
 tags:
   - angular
-  - angularJS
  
 image: '/assets/img/'
 

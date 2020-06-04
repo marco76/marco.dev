@@ -8,9 +8,17 @@ comments: true
     <body>
         {% include svg-icons.html %}
         {% include header-default.html %}
-            <section class="content">
-                {{ content }}
-            </section>
+        <div class="sidenav sidenav-content">
+            {% include left-categories.html %}
+        </div>
+
+                <div>
+                    <section class="content">
+                        {{ content }}
+                    </section>
+                    </div>
+
+
         {% include footer.html %}
     </body>
 </html>

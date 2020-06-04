@@ -14,8 +14,8 @@ categories:
   - Angular Material
   - REST
 tags:
-  - spring
-  - angular
+  - Spring
+  - Angular
  
 image: '/assets/img/'
 

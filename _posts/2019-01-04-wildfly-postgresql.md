@@ -8,9 +8,9 @@ main-class: 'javaee'
 color: '#7AAB13'
 permalink: /use-postgresql-with-wildfly
 categories:
-  - JavaEE, PostgreSQL
+  - JavaEE
 tags:
-  - JavaEE, PostgreSQL
+  - JavaEE
  
 image: '/assets/img/'
 

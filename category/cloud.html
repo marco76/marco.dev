@@ -1,11 +1,11 @@
 ---
 layout: default
-main-class: 'spring'
-main-class-title: 'Spring'
+main-class: 'cloud'
+main-class-title: 'Cloud'
 ---
 
-<main class="home" id="scroll" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="title-category">Spring</h1>
+<main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+    <h1 class="title-category">{{page.main-class-title}}</h1>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         {% if post.main-class == page.main-class or post.tags contains page.main-class-title or post.tags contains page.main-class%}

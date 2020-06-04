@@ -11,7 +11,7 @@ categories:
   - Angular
   - Javascript
 tags:
-  - angular
+  - Angular
   - javascript
  
 image: '/assets/img/'

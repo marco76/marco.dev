@@ -14,7 +14,7 @@ categories:
   - Google Maps
   - Ionic 
 tags:
-  - angular
+  - Angular
   - typescript
  
 image: '/assets/img/'

@@ -10,7 +10,7 @@ permalink: /2018/10/15/angular-autocomplete-component/
 categories:
   - Angular
 tags:
-  - angular
+  - Angular
  
 image: '/assets/img/'
 

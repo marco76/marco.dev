@@ -12,8 +12,8 @@ categories:
   - REST
   - Spring
 tags:
-  - java
-  - spring
+  - Java
+  - Spring
  
 image: '/assets/img/'
 

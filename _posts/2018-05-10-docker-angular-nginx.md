@@ -11,7 +11,7 @@ categories:
   - docker
   - Angular
 tags:
-  - angular
+  - Angular
   - docker
  
 image: '/assets/img/'

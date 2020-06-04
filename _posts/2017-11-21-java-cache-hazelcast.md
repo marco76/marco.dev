@@ -13,7 +13,7 @@ categories:
   - DevOps
   - Spring  
 tags:
-  - java
+  - Java
   - cache
   - hazelcast
  

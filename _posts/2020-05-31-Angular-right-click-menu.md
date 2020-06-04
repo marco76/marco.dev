@@ -8,9 +8,11 @@ main-class: 'angular'
 color: '#7AAB13'
 permalink: /angular-right-click-menu
 categories:
-  - Angular, Angular Material
+  - Angular
+  - Angular Material
 tags:
   - Angular
+  - Angular Material
 
 introduction: 'Right click custom menu inside dynamic lists with Angular Material'
 ---

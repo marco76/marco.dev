@@ -8,9 +8,9 @@ main-class: 'angular'
 color: '#7AAB13'
 permalink: /ionic-angular-lifecycle
 categories:
-  - Angular, Ionic
+  - Angular
 tags:
-  - angular, ionic
+  - Angular
  
 image: '/assets/img/'
 

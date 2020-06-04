@@ -8,9 +8,9 @@ main-class: 'java'
 color: '#7AAB13'
 permalink: /build-openjdk
 categories:
-  - Java, JDK
+  - Java
 tags:
-  - Java, JDK
+  - Java
  
 image: '/assets/img/'
 

@@ -1,14 +1,15 @@
 ---
 layout: default
 main-class: 'java'
+main-class-title: 'Java'
 ---
 
 <main class="home" id="scroll" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="title-category">dev</h1>
+    <h1 class="title-category">{{ page.main-class-title }}</h1>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        {% if post.main-class == 'dev' %}
-            <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+        {% if post.main-class == page.main-class or post.tags contains page.main-class-title or post.tags contains page.main-class%}
+        <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <span class="ribbon"><span>{{post.main-class}}</span></span>
                     <div class="box-body">
                         <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">
