@@ -4,7 +4,7 @@ title: 'JPA: lazy loading for lazy developers, the performance issue'
 date: 2009-03-09T17:17:01+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=38
+guid: https://molteni.wordpress.com/?p=38
 permalink: /2009/03/09/jpa-performance-inser/
 categories:
   - java

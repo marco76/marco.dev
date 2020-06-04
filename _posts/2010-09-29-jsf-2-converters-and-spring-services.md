@@ -4,7 +4,7 @@ title: JSF 2 converters and Spring services
 date: 2010-09-29T09:13:47+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=112
+guid: https://molteni.wordpress.com/?p=112
 permalink: /2010/09/29/jsf-2-converters-and-spring-services/
 jabber_published:
   - "1285748027"

@@ -14,7 +14,7 @@ Often when the user clicks on the link the backing bean method linked by the act
 
 In the picture the first icon edits and the second delete the row &#8230;
 
-[![Row of Datatable](http://molteni.files.wordpress.com/2007/06/table_row.png)](http://molteni.files.wordpress.com/2007/06/table_row.png "Row of Datatable")
+[![Row of Datatable](https://molteni.files.wordpress.com/2007/06/table_row.png)](https://molteni.files.wordpress.com/2007/06/table_row.png "Row of Datatable")
 
 According to Sun this is a <a href="https://javaserverfaces.dev.java.net/issues/show_bug.cgi?id=69" target="_blank">feature </a>and it will not be solved.
 

@@ -4,7 +4,7 @@ title: Configure a DataSource for MySQL and TomEE tutorial
 date: 2013-03-25T19:54:38+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=262
+guid: https://molteni.wordpress.com/?p=262
 permalink: /2013/03/25/configure-a-datasource-for-mysql-and-tomee/
 jabber_published:
   - "1364237678"

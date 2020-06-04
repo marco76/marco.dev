@@ -4,7 +4,7 @@ title: 'Tutorial: use Java to develop Facebook applications'
 date: 2009-04-27T11:27:08+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=73
+guid: https://molteni.wordpress.com/?p=73
 permalink: /2009/04/27/tutorial-use-java-to-develop-facebook-applications-example/
 categories:
   - Facebook

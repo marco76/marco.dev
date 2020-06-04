@@ -4,7 +4,7 @@ title: 'Using Spring with JSF &#8211; the managed bean &#8211; tutorial'
 date: 2009-03-06T00:06:49+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=5
+guid: https://molteni.wordpress.com/?p=5
 permalink: /2009/03/06/spring-jsf-tutorial/
 categories:
   - JSF

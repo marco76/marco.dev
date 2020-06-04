@@ -4,7 +4,7 @@ title: 'Spring: split the application context'
 date: 2009-03-06T09:49:19+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=18
+guid: https://molteni.wordpress.com/?p=18
 permalink: /2009/03/06/spring-split-the-application-context/
 categories:
   - java

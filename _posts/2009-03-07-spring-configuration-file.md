@@ -4,7 +4,7 @@ title: 'Spring &#8211; Configuration file'
 date: 2009-03-07T13:16:38+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=24
+guid: https://molteni.wordpress.com/?p=24
 permalink: /2009/03/07/spring-configuration-file/
 categories:
   - java

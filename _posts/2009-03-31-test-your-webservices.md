@@ -4,7 +4,7 @@ title: Test your webservices
 date: 2009-03-31T23:49:20+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=53
+guid: https://molteni.wordpress.com/?p=53
 permalink: /2009/03/31/test-your-webservices/
 categories:
   - Uncategorized

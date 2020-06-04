@@ -45,7 +45,7 @@ The goals are the following:
 The project is more ambitious than a simple hello world and will require a bit of time to be developed in the free time.
 
 You can find a first demo here (everything has been integrated in this demo):
-~~[molteni.io](http://molteni.io)~~ [javademo.io](javademo.io)
+~~[molteni.io](https://molteni.io)~~ [javademo.io](javademo.io)
 
 The code is here:
 [https://github.com/marco76/spriNGdemo](https://github.com/marco76/spriNGdemo)
@@ -57,7 +57,7 @@ The code is here:
 ~~[SonarQube](http://springdemo.io:9000/dashboard?id=spring-ng-demo%3Aparent%3Acandidate)~~
 
 ~~And a Docker deploy:~~
-~~[molteni.io](http://molteni.io)~~
+~~[molteni.io](https://molteni.io)~~
 
 ~~The [Java EE Demo](http://javademo.io) will be updated in the future.~~
 ~~The [springdemo.io](http://springdemo.io) won't be updated and will be replaced by the current molteni.io.~~

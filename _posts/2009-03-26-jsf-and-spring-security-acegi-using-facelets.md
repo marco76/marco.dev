@@ -4,7 +4,7 @@ title: JSF and Spring Security (Acegi) using facelets
 date: 2009-03-26T13:18:17+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/?p=49
+guid: https://molteni.wordpress.com/?p=49
 permalink: /2009/03/26/jsf-and-spring-security-acegi-using-facelets/
 categories:
   - java
