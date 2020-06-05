@@ -12,6 +12,9 @@ categories:
   - Javaserver Faces
   - JSF
   - Spring
+tags:
+  - Spring
+  - JSF
 ---
 Problem:
   

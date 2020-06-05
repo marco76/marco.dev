@@ -11,6 +11,9 @@ categories:
   - Javaserver Faces
   - JSF
   - Spring
+tags:
+  - Spring
+  - JSF
 ---
 Two tips for the people who is fighting with these technologies:
 

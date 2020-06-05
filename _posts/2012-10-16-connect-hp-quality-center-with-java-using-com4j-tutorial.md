@@ -15,6 +15,9 @@ dsq_thread_id:
 categories:
   - HP Quality Center
   - java
+tags:
+  - Java
+  - QA
 ---
 I try to add some new information about how to connect to Quality Center using Java.
 

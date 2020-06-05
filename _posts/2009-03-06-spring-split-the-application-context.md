@@ -9,6 +9,8 @@ permalink: /2009/03/06/spring-split-the-application-context/
 categories:
   - java
   - Spring
+tags:
+  - Spring
 ---
 There are many reasons to declare the beans in more than one xml file. The most important reason is to maintain the code clear with a logical separation of the content of the file. The second reason is that when the application begin big only one file is not enough for the configuration.
 

@@ -25,9 +25,8 @@ categories:
   - Spring
   - Spring MVC
 tags:
-  - mongodb
-  - spring data
-  - spring mvc
+  - DB
+  - Spring
 ---
 This tutorial (not completed yet) has the goal to show how can be easy to create a new Web application based on Spring and MongoDB.
 

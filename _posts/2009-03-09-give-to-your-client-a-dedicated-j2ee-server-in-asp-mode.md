@@ -8,6 +8,9 @@ guid: https://molteni.wordpress.com/?p=33
 permalink: /2009/03/09/give-to-your-client-a-dedicated-j2ee-server-in-asp-mode/
 categories:
   - java
+tags:
+  - Java EE
+  - Cloud
 ---
 In my last project we had to sell ASP solutions to client. The software works on our servers and the clients have to connect remotely.
   

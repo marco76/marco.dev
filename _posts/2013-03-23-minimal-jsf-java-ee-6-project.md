@@ -16,11 +16,8 @@ categories:
   - Maven
   - TomEE
 tags:
-  - eclipse
-  - java ee
-  - jsf
-  - maven
-  - tomee
+  - Java EE
+  - JSF
 ---
 The goal of this tutorial is to build a basic Java EE hello world application. We will use eclipse, maven and tomee.
 

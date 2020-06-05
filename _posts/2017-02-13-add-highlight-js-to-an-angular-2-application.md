@@ -18,7 +18,6 @@ categories:
   - Uncategorized
 tags:
   - Angular
-  - directive
   - TypeScript
 ---
 With the goal to build my own blog application (for educational purposes) I integrated the [highlight.js library](https://highlightjs.org) in the [demo application](https://angular.cafe).

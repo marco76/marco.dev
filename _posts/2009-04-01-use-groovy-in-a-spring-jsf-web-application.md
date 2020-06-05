@@ -12,6 +12,9 @@ categories:
   - Javaserver Faces
   - JSF
   - Spring
+tags:
+  - Java EE
+  - JSF
 ---
 It&#8217;s easy and powerful use Groovy classes in your Java web application using the Spring Framework. Here you can find a tutorial.
 

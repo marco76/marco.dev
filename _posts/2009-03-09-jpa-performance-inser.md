@@ -8,6 +8,9 @@ guid: https://molteni.wordpress.com/?p=38
 permalink: /2009/03/09/jpa-performance-inser/
 categories:
   - java
+tags:
+  - Java
+  - DB
 ---
 I found and [interesting article](https://terrazadearavaca.blogspot.com/2008/12/jpa-implementations-comparison.html) about loading and reading data with JPA. There are performance issues when you want to insert 1&#8217;000 or 10&#8217;000 records in the database.
   

@@ -18,6 +18,8 @@ categories:
   - Javaserver Faces
   - JSF
   - Maven
+tags:
+  - Java EE
 ---
 This short tutorial has the goal to show how to start as fast as possible a new EJB project using IntelliJ and Maven.
 

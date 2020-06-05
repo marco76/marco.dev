@@ -10,6 +10,8 @@ categories:
   - Facebook
   - java
   - Spring
+tags:
+  - Spring
 ---
 Create a FB application is funny and easy with Java. There are some open source libraries that can help you to achieve your goal. You find these libraires here :
   

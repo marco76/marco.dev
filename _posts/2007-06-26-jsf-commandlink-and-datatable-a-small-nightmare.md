@@ -7,6 +7,9 @@ permalink: /2007/06/26/jsf-commandlink-and-datatable-a-small-nightmare/
 categories:
   - Javaserver Faces
   - JSF
+tags:
+  - Java EE
+  - JSF
 ---
 Many developers had problems using a **commandLink** in a column&#8217;s **datatable**.
   

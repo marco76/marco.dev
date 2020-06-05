@@ -9,6 +9,8 @@ permalink: /2009/03/07/spring-configuration-file/
 categories:
   - java
   - Spring
+tags:
+  - Spring
 ---
 **Problem**
   

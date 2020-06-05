@@ -17,6 +17,9 @@ categories:
   - Java EE
   - JPA
   - TomEE
+tags:
+  - Java
+  - DB
 ---
 Copy the driver of MySql in the TomEE lib directory:
 

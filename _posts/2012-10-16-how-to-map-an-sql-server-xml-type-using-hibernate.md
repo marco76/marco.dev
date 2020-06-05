@@ -13,6 +13,9 @@ categories:
   - java
   - JPA
   - SQL Server
+tags:
+  - Java
+  - DB
 ---
 The solution to map an SQL Server XML Type using Hibernate is quite easy:
 

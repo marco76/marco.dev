@@ -16,6 +16,9 @@ categories:
   - Maven
   - Sonar
   - Uncategorized
+tags:
+  - Java
+  - QA
 ---
 We deployed our fresh new tests based on JMockit in our Jenkins/Sonar environment and surprise &#8230; no unit test works anymore. Even the tests that don&#8217;t use JMockit (simple JUnit) stopped to work. It was strange that during the build phase with test there was no problem but in the Sonar test phase the first JUnit test looped permanently.
 

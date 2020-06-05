@@ -9,6 +9,9 @@ permalink: /2009/03/06/spring-jsf-tutorial/
 categories:
   - JSF
   - Spring
+tags:
+  - Spring
+  - JSF
 ---
 Two J2EE technologies are becoming dominant in the Java environment: Spring and Java ServerFaces.
   

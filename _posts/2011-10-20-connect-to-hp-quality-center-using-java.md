@@ -12,6 +12,9 @@ categories:
   - HP Quality Center
   - java
   - Uncategorized
+tags:
+  - Java
+  - QA
 ---
 You can access HP Quality Center using java. To do this you have to use com4j to create the wrapper classes to the OTA library.
 
