@@ -2,7 +2,7 @@
 title: Java and Angular in the Cloud
 description: Java and Angular
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://marco.dev"
+url: "https://marco.dev"
 url_https: "https://marco.dev"
 repository_url: "https://github.com/marco76/marco.dev/blob/master/"
 comments: true
