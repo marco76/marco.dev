@@ -9,7 +9,7 @@ main-class-title: 'Java EE'
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         {% if post.main-class == page.main-class or post.tags contains page.main-class-title or post.tags contains page.main-class%}
-        <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+        <article data-url="{{ post.url | prepend: site.baseurl }}" class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <span class="ribbon"><span>{{post.main-class}}</span></span>
                     <div class="box-body">
                         <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">
