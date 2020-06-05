@@ -40,11 +40,11 @@ JtaManaged true
 Your persistence xml has to use the datasource defined in tomee.xml (in this case &#8216;phone&#8217;)
 
 <pre class="brush: xml; title: ; notranslate" title="">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+&lt;persistence version="2.0" xmlns="https://java.sun.com/xml/ns/persistence"
+xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://java.sun.com/xml/ns/persistence
  
-http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"&gt;
+https://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"&gt;
  
 &lt;persistence-unit name="pmWebPU"&gt;
 &lt;jta-data-source&gt;pmone&lt;/jta-data-source&gt;

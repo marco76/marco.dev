@@ -21,11 +21,11 @@ tags:
   - directive
   - TypeScript
 ---
-With the goal to build my own blog application (for educational purposes) I integrated the [highlight.js library](https://highlightjs.org) in the [demo application](http://angular.cafe).
+With the goal to build my own blog application (for educational purposes) I integrated the [highlight.js library](https://highlightjs.org) in the [demo application](https://angular.cafe).
 
 At the moment there are problems with safari and mobile platforms, a js error in the library.
 
-The implementation is based on this answer in [Stack Overflow](http://stackoverflow.com/questions/37307943/highlight-js-does-not-work-with-angular-2) (thanks to the author) 😉
+The implementation is based on this answer in [Stack Overflow](https://stackoverflow.com/questions/37307943/highlight-js-does-not-work-with-angular-2) (thanks to the author) 😉
 
 In packages.json you have to import the highlight library and the type:
 

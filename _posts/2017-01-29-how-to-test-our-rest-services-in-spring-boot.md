@@ -40,7 +40,7 @@ You can find the working code for the REST controller here:
 
 ### Mock the request
 
-Spring boot gives us the possibility to simulate the http request without any browser using the annotation [@WebMvcTest](https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/api/org/springframework/boot/test/autoconfigure/web/servlet/WebMvcTest.html) . This annotation configure [@MockMvc](http://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/javadoc-api/org/springframework/test/web/servlet/MockMvc.html?is-external=true) that simulates the request for the tests.
+Spring boot gives us the possibility to simulate the http request without any browser using the annotation [@WebMvcTest](https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/api/org/springframework/boot/test/autoconfigure/web/servlet/WebMvcTest.html) . This annotation configure [@MockMvc](https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/javadoc-api/org/springframework/test/web/servlet/MockMvc.html?is-external=true) that simulates the request for the tests.
 
 ### Mock the service
 

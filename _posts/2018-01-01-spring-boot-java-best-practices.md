@@ -22,7 +22,7 @@ _Bad_
 - it's easy to add dependencies, the class risk to violate the single responsibility principle becoming a container of services.
 
 References
-- Olivier Gierke: [why-field-injection-is-evil](http://olivergierke.de/2013/11/why-field-injection-is-evil/)
+- Olivier Gierke: [why-field-injection-is-evil](https://olivergierke.de/2013/11/why-field-injection-is-evil/)
 
 ### Use constructor injection
 
@@ -30,13 +30,13 @@ _Good_
 - the beans cannot be null;
 - the object is immutable;
 - the object can be defined final;
-- in case the bean has only one constructor you can omit [@Autowired](http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/htmlsingle/#beans-autowired-annotation
+- in case the bean has only one constructor you can omit [@Autowired](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/htmlsingle/#beans-autowired-annotation
 );
 - force to better think the responsibility of the class. 
 
 References
 - Spring Blog: [How not to hate spring in 2016](https://spring.io/blog/2015/11/29/how-not-to-hate-spring-in-2016)
-- Spring Documentation : [Reference](http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/htmlsingle/#beans-constructor-injection)
+- Spring Documentation : [Reference](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/htmlsingle/#beans-constructor-injection)
 
 ## Avoid the use of @Value in Spring Boot
 
@@ -48,4 +48,4 @@ The advantages:
 - The POJO is TypeSafe and can contain complex structures (e.g. 'database.configuration.mysql.connection') 
 
 Here you can find the documentation:
-- Spring Boot: [Type-safe Configuration Properties](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-external-config-typesafe-configuration-properties) 
+- Spring Boot: [Type-safe Configuration Properties](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-external-config-typesafe-configuration-properties) 

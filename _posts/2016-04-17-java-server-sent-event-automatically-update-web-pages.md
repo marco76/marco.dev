@@ -33,7 +33,7 @@ Java EE 7 and Spring 4 implemented the [WebSocket](https://en.wikipedia.org/wik
 
 ## 3. _Server-side events_
 
-HTML5 allows an unidirectional communication similar to the publish/subscribe model in JMS. The protocol used is HTTP and is described in the [W3C documentation](https://www.w3.org/TR/eventsource/) (note than [IE is not compatible](http://www.w3schools.com/html/html5_serversentevents.asp)).
+HTML5 allows an unidirectional communication similar to the publish/subscribe model in JMS. The protocol used is HTTP and is described in the [W3C documentation](https://www.w3.org/TR/eventsource/) (note than [IE is not compatible](https://www.w3schools.com/html/html5_serversentevents.asp)).
 
 [<img class="alignnone wp-image-609 size-full" src="{{site.baseurl}}/assets/img/uploads/2016/04/sse_3_2016-04-17_11-15-43-e1460905505391.png?resize=350%2C149" alt="sse_3_2016-04-17_11-15-43" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/sse_3_2016-04-17_11-15-43.png)
 
@@ -171,4 +171,4 @@ Another resource receive the POST messages and create an event to send to the su
 
 Interesting references:
   
-<http://streamdata.io/blog/push-sse-vs-websockets/>
+<https://streamdata.io/blog/push-sse-vs-websockets/>

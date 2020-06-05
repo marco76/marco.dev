@@ -43,11 +43,11 @@ Why don't give a try? Here my experience about the first steps of a wannabe help
 
 Tomitribe developers are very active during the conferences and are super talented, no doubts that lot is going on but...
 
-_Twitter: [@ApacheTomEE](http://twitter.com/@ApacheTomEE)_
+_Twitter: [@ApacheTomEE](https://twitter.com/@ApacheTomEE)_
 
 The twitter account seems inactive since July 2017. Somebody could think that the project is lost in the recent transitions between Java EE 7 -> 8 -> Jakarta EE / Microprofile.
 
-Website: _[http://tomee.apache.org](http://tomee.apache.org)_
+Website: _[https://tomee.apache.org](https://tomee.apache.org)_
 
 There is no news or update's date, I could still have some doubts about the activity level. The webpage is referring to the twitter account inactive since July 2017 :(
 
@@ -59,7 +59,7 @@ All the communication in the social media is done via [Tomitribe](https://www.to
 
 I have multiple personal projects running WildFly and Payara, I could give TomEE a try. Which version should I download? A brief description is absent:
 
-[http://tomee.apache.org/download-ng.html](http://tomee.apache.org/download-ng.html)
+[https://tomee.apache.org/download-ng.html](https://tomee.apache.org/download-ng.html)
 
 TomEE plume, TomEE plus, TomEE webprofile, TomEE microprofile, OpenEJB Standalone, TomEE Plume Webapp, TomEE Plus Webapp, TomEE Webapp, TomEE Microprofile Webapp.
 
@@ -145,23 +145,23 @@ The twitter of Tomitribe [invites us](https://www.tomitribe.com/blog/tomee-for-t
 To find the history of the Tomee mailing lists I had to use related a search engine because I didn't find any direct link from the website.
 
 Here what I found:
-[http://openejb.apache.org/mailing-lists.html](http://openejb.apache.org/mailing-lists.html)
+[https://openejb.apache.org/mailing-lists.html](https://openejb.apache.org/mailing-lists.html)
 
 ```
 TomEE Developers Online Archives/Forums:
 
 Search	Post	Depth	Archive URL
 
-		2002	http://openejb.markmail.org/search/?q=type:development
-		2002	http://marc.info/?l=openejb-development
-		2006	http://mail-archives.apache.org/mod_mbox/tomee-dev/
-		2006	http://n4.nabble.com/OpenEJB-Dev-f982480.html
-		2007	http://www.mail-archive.com/dev@tomee.apache.org
+		2002	https://openejb.markmail.org/search/?q=type:development
+		2002	https://marc.info/?l=openejb-development
+		2006	https://mail-archives.apache.org/mod_mbox/tomee-dev/
+		2006	https://n4.nabble.com/OpenEJB-Dev-f982480.html
+		2007	https://www.mail-archive.com/dev@tomee.apache.org
 ```
 
 The one I was looking for is the last one:
 
-[http://www.mail-archive.com/dev@tomee.apache.org](http://www.mail-archive.com/dev@tomee.apache.org)
+[https://www.mail-archive.com/dev@tomee.apache.org](https://www.mail-archive.com/dev@tomee.apache.org)
 
 # And now?
 

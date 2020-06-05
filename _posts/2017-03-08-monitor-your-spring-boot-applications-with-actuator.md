@@ -31,7 +31,7 @@ If you use the **@SpringBootApplication** annotation in your Application class a
 
 Spring generates for you a lot of predefined endpoints (accessible via REST) with a lot of internal information of the application: memory, beans, etc.
 
-You can find the list of the endpoints here: <http://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html>
+You can find the list of the endpoints here: <https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html>
 
 The type and quantity of information can be configured. This endpoints allow us to use external tools (e.g. regular ping or analysis of the JSON response) to create status dashboards and monitor if everything is working correctly or an intervention is required.
 
@@ -39,7 +39,7 @@ Spring cleverly hides some sensitive fields like &#8216;password&#8217; automati
 
 You can see some examples of the result on my sample website:
 
-<http://angular.cafe/app-spring-monitoring>
+<https://angular.cafe/app-spring-monitoring>
 
 <img class="alignnone size-full wp-image-1022" src="{{site.baseurl}}/assets/img/uploads/2017/03/monitoring_2.png?resize=106%2C138" data-recalc-dims="1" />
 

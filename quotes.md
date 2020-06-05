@@ -30,4 +30,4 @@ _Elegant Objects, Yegor Bugayenko_
 > Field injections is just lipstick on the pig in that regard.,
   A field injected class won't survive one of my code reviews, the same as no untested code will.
   
-  [Why field injection is evil](http://olivergierke.de/2013/11/why-field-injection-is-evil/), _Olivier Gierke_
+  [Why field injection is evil](https://olivergierke.de/2013/11/why-field-injection-is-evil/), _Olivier Gierke_

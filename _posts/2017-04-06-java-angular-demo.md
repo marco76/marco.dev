@@ -34,7 +34,7 @@ The bla bla that continues the post is there for historical reasons.
 `@deprecated`
 ### Update 04.2018 : Angular with Java EE / Spring and Kubernetes
 
-After a long sleep the web demo <http://www.javademo.io> will receive regular updates.
+After a long sleep the web demo <https://www.javademo.io> will receive regular updates.
 
 The new architecture is more is more Microservices oriented.
 
@@ -54,7 +54,7 @@ The new architecture:
 
 ### Java EE and Angular Demo
 
-Web demo: <http://javademo.io> GitHub : <https://github.com/marco76/java-demo>
+Web demo: <https://javademo.io> GitHub : <https://github.com/marco76/java-demo>
 
 Java EE 8 will come this year with a lot of newsworthy improvements and some possible disappointments (MVC, JAX-RS NIO etc).
 
@@ -74,11 +74,11 @@ In my personal experience as consultant when I go to talk to clients they tell m
 
 This seems to be the current trend and we have to accept it, maybe your experience is different.
 
-If you are interested in a full stack Java EE 8 demo you can find an excellent reference here: <http://jj-blogger.blogspot.ch/2017/03/testing-java-ee-8.html?m=1>
+If you are interested in a full stack Java EE 8 demo you can find an excellent reference here: <https://jj-blogger.blogspot.ch/2017/03/testing-java-ee-8.html?m=1>
 
 #### The project with Java EE 8 &#8211; javademo.io
 
-The demo (in permanent development) is visible here: <http://javademo.io>
+The demo (in permanent development) is visible here: <https://javademo.io>
 
 The JSR are still in work in progress mode (review, final draft) and the Reference Implementations are not ready yet. The server used to run the application need some patches to integrate the new JSRs.
 

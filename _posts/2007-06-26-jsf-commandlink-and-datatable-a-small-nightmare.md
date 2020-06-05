@@ -22,4 +22,4 @@ The most used workaround is to place the managed bean with the methods in the **
 
 You can find a good explanation of the problem and an alternative solution here:
   
- <http://typo.ars-subtilior.com/articles/2007/02/07/jsf-datatable-and-commandlink>
+ <https://typo.ars-subtilior.com/articles/2007/02/07/jsf-datatable-and-commandlink>

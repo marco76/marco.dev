@@ -12,7 +12,7 @@
 {% include menu-search.html %}
 
 <header class="header-post" role="banner">
-     <div class="content">
+     <div class="content" style="margin-left: 160px">
          <p class="demo">
          <a href="{{site.baseurl}}/garbage-collectors-intro"> Video: Garbage collectors for busy Java developers (10 min., no maths ;)) <i class="fa fa-external-link" aria-hidden="true"></i></a>
          </p>
@@ -23,7 +23,7 @@
          {% if page.updated %}
             <time itemprop="dateUpdated" datetime="{{ page.updated | date_to_xmlschema }}" class="date">- last update: {{ page.updated | date_to_string }}</time>
         {% endif %}-->
-        <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+        <h1 class="post-title new-content" itemprop="name">{{ page.title }}</h1>
         <!--<p itemprop="description" class="subtitle">{{ page.description }}</p>-->
         <!--<p><a href="{{site.repository_url}}{{page.path}}">Improve this doc</a></p>-->
      </div>

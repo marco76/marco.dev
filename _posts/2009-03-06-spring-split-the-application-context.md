@@ -28,4 +28,4 @@ contextConfigLocation<br />
   
 <span style="font-weight:normal;">You can use Ant-style pattern to call your files e.g. /WEB-INF/yourApplication*.xml</span>**
 
-[Spring reference](http://static.springframework.org/spring/docs/2.5.x/api/org/springframework/web/context/ContextLoader.html)
+[Spring reference](https://static.springframework.org/spring/docs/2.5.x/api/org/springframework/web/context/ContextLoader.html)

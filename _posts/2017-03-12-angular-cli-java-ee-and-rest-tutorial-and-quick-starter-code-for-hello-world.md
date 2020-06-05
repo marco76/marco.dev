@@ -24,7 +24,7 @@ tags:
 ---
 ##### Complete Java EE and Angular example
 
-_New demo available here_: <http://javademo.io> &#8211; <https://github.com/marco76/java-demo> &#8211; <https://marco.dev/2017/04/06/java-angular-demo/>
+_New demo available here_: <https://javademo.io> &#8211; <https://github.com/marco76/java-demo> &#8211; <https://marco.dev/2017/04/06/java-angular-demo/>
 
 ##### Problem we need a new web application that uses Java EE as backend and Angular as frontend. It should be easy to configure.
 
@@ -49,14 +49,14 @@ _New demo available here_: <http://javademo.io> &#8211; <https://github.com/m
 
   1. clone the git project
   2. from the root of the project launch `mvn package` this generates a package named _ROOT.war_ in the _PROJECT/server/target_ directory
-  3. you can deploy this package in your favourite application server. The Angular application should answer at the requests to _http://localhost:8080_
+  3. you can deploy this package in your favourite application server. The Angular application should answer at the requests to _https://localhost:8080_
 
 ##### Development mode
 
   1. clone the git project
   2. You can start the server using your favourite IDE. The project uses a standard Maven directory structure. You need to configure the server to deploy the _server.war_ artifact.
   3. from the _PROJECT/client/src_ directory install the npm packages : `npm install`
-  4. launch the client with `ng serve`. The client uses the port 4200 (default for Angular CLI) and you can navigate to _http://localhost:4200_
+  4. launch the client with `ng serve`. The client uses the port 4200 (default for Angular CLI) and you can navigate to _https://localhost:4200_
 
 ### The result
 

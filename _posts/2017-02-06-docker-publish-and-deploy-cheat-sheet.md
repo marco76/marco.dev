@@ -18,7 +18,7 @@ tags:
 ---
 In the post <a href="https://marco.dev/2017/01/30/devops-for-the-poor-docker-ubuntu-apache-and-spring/" target="_blank">Cheap and easy DevOps for developers</a> I described the architecture of the deployment with the focus on the configuration of the proxy.
   
-Here a cheatsheet of the operations that I execute to deploy the <a href="https://github.com/marco76/SpringAngular2TypeScript/blob/master/webClient/src/config/webpack.common.js" target="_blank">Angular & Java application</a> from the client to the server (<a href="http://angular.cafe" target="_blank">angular.cafe</a>).
+Here a cheatsheet of the operations that I execute to deploy the <a href="https://github.com/marco76/SpringAngular2TypeScript/blob/master/webClient/src/config/webpack.common.js" target="_blank">Angular & Java application</a> from the client to the server (<a href="https://angular.cafe" target="_blank">angular.cafe</a>).
 
 On the **client**:
   

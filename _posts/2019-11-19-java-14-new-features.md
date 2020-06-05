@@ -58,7 +58,7 @@ if (obj instanceof String obj) {
 
 If `obj` is an instance of `String` this is assigned to the `String` object `obj`.
 
-You can find this feature already implemented in [C#](https://docs.microsoft.com/en-us/dotnet/csharp/pattern-matching), [Scala](https://docs.scala-lang.org/tour/pattern-matching.html), [Haskell](http://learnyouahaskell.com/syntax-in-functions)
+You can find this feature already implemented in [C#](https://docs.microsoft.com/en-us/dotnet/csharp/pattern-matching), [Scala](https://docs.scala-lang.org/tour/pattern-matching.html), [Haskell](https://learnyouahaskell.com/syntax-in-functions)
 
 
 

@@ -21,11 +21,11 @@ The Theme features:
 - Color Customization
 - Info Customization
 
-If you want to see this template in real action, take a look at my [original site](http://willianjusten.com.br/).
+If you want to see this template in real action, take a look at my [original site](https://willianjusten.com.br/).
 
 ## Basic Setup
 
-1. [Install Jekyll](http://jekyllrb.com) (use the command ```sudo gem install jekyll```)
+1. [Install Jekyll](https://jekyllrb.com) (use the command ```sudo gem install jekyll```)
 2. Fork the [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template/fork)
 3. Clone the repo you just forked.
 4. Edit `_config.yml` to personalize your site.
@@ -42,7 +42,7 @@ You have to fill some informations on `_config.yml` to customize your site.
 title: Willian Justen - Desenvolvedor Front End
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
-url: "http://localhost:3000" # the base hostname & protocol for your site 
+url: "https://localhost:3000" # the base hostname & protocol for your site 
 
 # User settings
 username: Lorem Ipsum

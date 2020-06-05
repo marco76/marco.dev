@@ -4,7 +4,7 @@ title: The Javascript and AngularJS build procedure
 date: 2016-10-05T11:44:02+00:00
 author: Marco Molteni
 layout: post
-guid: http://ngjava.com/?p=84
+guid: https://ngjava.com/?p=84
 permalink: /2016/10/05/the-angularjs-build-procedure/
 main-class: 'angular'
 categories:
@@ -119,5 +119,5 @@ categories:
 </p>
 
 <p dir="auto">
-  In Javascript we can split this tools in 3 categories:<br />Package manager to handle the dependencies: <a href="https://www.npmjs.com" target="_blank">npm</a>, <a href="https://bower.io" target="_blank">bower</a><br />Task Runners: <a href="http://gruntjs.com/" target="_blank">Grunt</a>, <a href="http://gulpjs.com/" target="_blank">Gulp.js</a><br />Module bundlers: <a href="https://webpack.github.io/" target="_blank">WebPack</a>
+  In Javascript we can split this tools in 3 categories:<br />Package manager to handle the dependencies: <a href="https://www.npmjs.com" target="_blank">npm</a>, <a href="https://bower.io" target="_blank">bower</a><br />Task Runners: <a href="https://gruntjs.com/" target="_blank">Grunt</a>, <a href="https://gulpjs.com/" target="_blank">Gulp.js</a><br />Module bundlers: <a href="https://webpack.github.io/" target="_blank">WebPack</a>
 </p>

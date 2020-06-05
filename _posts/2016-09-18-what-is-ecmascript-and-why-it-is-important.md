@@ -4,7 +4,7 @@ title: What is ECMAScript and why is it important?
 date: 2016-09-18T08:49:42+00:00
 author: Marco Molteni
 layout: post
-guid: http://ngjava.com/?p=33
+guid: https://ngjava.com/?p=33
 permalink: /2016/09/18/what-is-ecmascript-and-why-it-is-important/
 categories:
   - First Steps
@@ -13,7 +13,7 @@ tags:
   - ECMAScript
   - java
 ---
-In one sentence, ECMAScript for the JavaScript developer is like the <a href="http://docs.oracle.com/javase/specs/" target="_blank">Java Specification</a> for the Java Developer.
+In one sentence, ECMAScript for the JavaScript developer is like the <a href="https://docs.oracle.com/javase/specs/" target="_blank">Java Specification</a> for the Java Developer.
 
 &nbsp;
 
@@ -21,7 +21,7 @@ In one sentence, ECMAScript for the JavaScript developer is like the <a href="ht
 
 &nbsp;
 
-In your development you have to decide which version of ECMAScript target, we suggest that you monitor the ECMA implementation status with websites like [http://kangax.github.io/compat-table/es5/](http://kangax.github.io/compat-table/es5/ "http://kangax.github.io/compat-table/es5/")
+In your development you have to decide which version of ECMAScript target, we suggest that you monitor the ECMA implementation status with websites like [https://kangax.github.io/compat-table/es5/](https://kangax.github.io/compat-table/es5/ "https://kangax.github.io/compat-table/es5/")
 
 Each Runtime environment can have a different level of implementation of the features of a defined specification.
 

@@ -26,7 +26,7 @@ Problem : I need to access a webservice of a provider. The provider gave to me a
 
 The private key p12 is not easy to manage in java. The default Key Store (cacert) doesn’t manage private keys.
 
-I’m using [apache cxf](http://cxf.apache.org/) to access the webservice.
+I’m using [apache cxf](https://cxf.apache.org/) to access the webservice.
 
 Solution:
 
@@ -37,7 +37,7 @@ Solution:
 
 The .cert file should be imported in the cacert file:
 
-<http://docs.oracle.com/javase/1.5.0/docs/tooldocs/solaris/keytool.html>
+<https://docs.oracle.com/javase/1.5.0/docs/tooldocs/solaris/keytool.html>
 
 You can easily access the certificate and the personal key from cxf using the following configuration.
   

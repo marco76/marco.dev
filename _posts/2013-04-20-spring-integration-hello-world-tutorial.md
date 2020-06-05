@@ -41,12 +41,12 @@ The _spring-config.xml_ configure the channels used by the application:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<beans xmlns="http://www.springframework.org/schema/beans"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xmlns:context="http://www.springframework.org/schema/context"
-       xmlns:integration="http://www.springframework.org/schema/integration"
-       xmlns:beans="http://www.springframework.org/schema/beans"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/integration http://www.springframework.org/schema/integration/spring-integration.xsd">
+<beans xmlns="https://www.springframework.org/schema/beans"
+       xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="https://www.springframework.org/schema/context"
+       xmlns:integration="https://www.springframework.org/schema/integration"
+       xmlns:beans="https://www.springframework.org/schema/beans"
+       xsi:schemaLocation="https://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd https://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd https://www.springframework.org/schema/integration https://www.springframework.org/schema/integration/spring-integration.xsd">
 
     <context:annotation-config />
 

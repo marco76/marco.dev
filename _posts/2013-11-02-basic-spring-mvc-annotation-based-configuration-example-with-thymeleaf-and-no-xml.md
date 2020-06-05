@@ -103,7 +103,7 @@ public class AppConfiguration {
 
 The WebInitializer implements the WebApplicationInitializer that configures the ServletContext.
   
-You can find more information in the [Spring official documentation](http://docs.spring.io/spring/docs/3.1.x/javadoc-api/org/springframework/web/WebApplicationInitializer.html).
+You can find more information in the [Spring official documentation](https://docs.spring.io/spring/docs/3.1.x/javadoc-api/org/springframework/web/WebApplicationInitializer.html).
   
 In brief, this class is bootstrapped by the application server (Servlet v.3.0) and it registers the dispatcher. 
 

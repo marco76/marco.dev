@@ -107,8 +107,8 @@ the file name suffix has to be .conf e.g.
     ProxyPreserveHost On
     
     # where to redirect the request to mycv.host
-    ProxyPass / http://localhost:8080/
-    ProxyPassReverse / http://localhost:8080/
+    ProxyPass / https://localhost:8080/
+    ProxyPassReverse / https://localhost:8080/
     
     # root of the target (doesn't apply for tomcat)
     DocumentRoot /var/www

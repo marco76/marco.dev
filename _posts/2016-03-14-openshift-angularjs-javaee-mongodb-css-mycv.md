@@ -38,7 +38,7 @@ Preview: CentOS, WildFly, Java 8, MongoDB, Apache, Multiple websites.
   
 &#8212;&#8212; END &#8212;&#8212;
 
-Website: <a href="http://mycv.host" target="_blank">http://mycv.host</a>
+Website: <a href="https://mycv.host" target="_blank">https://mycv.host</a>
   
 GitHub: <a href="https://github.com/marco76/myCv" target="_blank">https://github.com/marco76/myCv</a>
 
@@ -49,7 +49,7 @@ I published a website that uses the following technologies:<img class="wp-image
   * **OpenShift** as PaaS (it manages all this architecture for &#8230; free &#8230;)
   * **WildFly** 10 + RESTful (RESTeasy)
   * **MongoDB** for the data
-  * [**Keycloak**](http://keycloak.jboss.org/) for the **Oauth2** security (google, github, facebook access)
+  * [**Keycloak**](https://keycloak.jboss.org/) for the **Oauth2** security (google, github, facebook access)
   * **AngularJS** as JavaScript framework
   * HTML5 + **CSS** for the pages views
 
@@ -63,7 +63,7 @@ The data that fill the CV comes from a MongoDB server that contains the values. 
   
 <a href="{{site.baseurl}}/assets/img/uploads/2016/03/2016-03-14_16-06-01_mongo-1.png" rel="attachment wp-att-573"><img class="alignnone size-medium wp-image-573" src="{{site.baseurl}}/assets/img/uploads/2016/03/2016-03-14_16-06-01_mongo-1.png?resize=300%2C154" alt="2016-03-14_16-06-01_mongo" data-recalc-dims="1" /></a>
 
-For each request to the CV a document with the information of the visitor is created in MongoDB an @Asynchronous method retrieve the visitor geographic information from [freegeoip.net](http://freegeoip.net).
+For each request to the CV a document with the information of the visitor is created in MongoDB an @Asynchronous method retrieve the visitor geographic information from [freegeoip.net](https://freegeoip.net).
 
 Using only CSS is possible to change the CV if the recruiter decide to print it. In this case the border are eliminated from the document and the social icon (links) are replaced by the email address.
 
@@ -83,7 +83,7 @@ I don&#8217;t add code in this Post, you can find it on github. The code is cha
 
 **Security with Keycloak (and Google Oauth2)
   
-** I initially started implementing the security using Oauth2 (you can find it at this endpoint <http://mycv.host/rest/login>) but I found a better solution : [Keycloak](http://keycloak.jboss.org/). It handles almost everything (email verification, social auth, password policies etc). The feature are impressive and allow to avoid a lot of risky plumbing on the security side.
+** I initially started implementing the security using Oauth2 (you can find it at this endpoint <https://mycv.host/rest/login>) but I found a better solution : [Keycloak](https://keycloak.jboss.org/). It handles almost everything (email verification, social auth, password policies etc). The feature are impressive and allow to avoid a lot of risky plumbing on the security side.
   
 Email verification request:
   

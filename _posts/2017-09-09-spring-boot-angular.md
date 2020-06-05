@@ -48,7 +48,7 @@ git clone https://github.com/marco76/spring-angular-material
 cd ./spring-angular-material mvn package
 java -jar ./target/ng-spring-full-app-0.0.1-SNAPSHOT.war
 
-You can access the application on http://localhost:8080
+You can access the application on https://localhost:8080
 ```
 
 <img src="{{site.baseurl}}/assets/img/uploads/2017/09/2017-09-09_23-26-04.png" alt=""/>
@@ -59,5 +59,5 @@ You can access the application on http://localhost:8080
  
 During the development you have to start the frontend and the backend separately.
  
-The frontend runs on node.js, you can start with `ng serve`: http://localhost:4200
-The frontend runs on Tomcat embedded: http://localhost:8080
+The frontend runs on node.js, you can start with `ng serve`: https://localhost:4200
+The frontend runs on Tomcat embedded: https://localhost:8080

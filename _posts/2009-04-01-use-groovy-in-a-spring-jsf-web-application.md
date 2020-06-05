@@ -35,7 +35,7 @@ for (int s = 0; s &lt; listOfEntries.getLength(); s++) {
 
 For this reason I decided to integrate groovy in the Spring-JSF application, Groovy has the XMLSlurper class that allows to easily access an XML file like if it is a collection of classes.
 
-You can see &lt;a href="http://www.theregister.co.uk/2008/01/11/groovy_xml_part_two/" target="_blank"&gt;here&lt;/a&gt; a tutorial for SMLSlurper.
+You can see &lt;a href="https://www.theregister.co.uk/2008/01/11/groovy_xml_part_two/" target="_blank"&gt;here&lt;/a&gt; a tutorial for SMLSlurper.
 
 In my application the role of the first Groovy class were the following:
 &lt;ul&gt;
@@ -124,10 +124,10 @@ In this groovy class we use ListEntry and SourceList that are traditional java c
 
 **4. Declare the bean in Spring**
 
-<pre class="brush: xml; title: ; notranslate" title="">&lt;beans xmlns="http://www.springframework.org/schema/beans"
-xmlns:lang="http://www.springframework.org/schema/lang"
+<pre class="brush: xml; title: ; notranslate" title="">&lt;beans xmlns="https://www.springframework.org/schema/beans"
+xmlns:lang="https://www.springframework.org/schema/lang"
  ...
-http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang-2.5.xsd"
+https://www.springframework.org/schema/lang https://www.springframework.org/schema/lang/spring-lang-2.5.xsd"
 ...
 &gt;
 &lt;lang:groovy id="parser" script-source="classpath:ch/genidea/checknames/importer/ParserImpl.groovy" /&gt;

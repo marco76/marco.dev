@@ -5,7 +5,7 @@ date: 2016-09-20T22:17:48+00:00
 author: Marco Molteni
 main-class: 'cloud'
 layout: post
-guid: http://ngjava.com/?p=38
+guid: https://ngjava.com/?p=38
 permalink: /2016/09/20/first-docker-version-of-the-spring-boot-angular-2-sample-application/
 categories:
   - Uncategorized

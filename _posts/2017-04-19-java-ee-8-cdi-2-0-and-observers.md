@@ -25,7 +25,7 @@ introduction: 'Java EE 8 - CDI 2.0: Events and Observers'
 
 Code source: [GitHub](https://github.com/marco76/java-demo/tree/master/server/src/main/java/io/javademo/examples/cdi/event)
 
-  * CDI website: <http://www.cdi-spec.org/>
+  * CDI website: <https://www.cdi-spec.org/>
   * CDI documentation: <https://docs.jboss.org/cdi/spec/2.0-PFD2/cdi-spec.html>
   * CDI specifications: [https://www.jcp.org/en/jsr/detail?id=365](https://docs.jboss.org/cdi/spec/2.0-PFD2/cdi-spec.html)
 
@@ -129,4 +129,4 @@ The advantage of this solution is that you can add new Observers (e.g. newspaper
 
 ### How to test it
 
-You can go on <http://javademo.io/cdi-weather> and play with it 🙂
+You can go on <https://javademo.io/cdi-weather> and play with it 🙂

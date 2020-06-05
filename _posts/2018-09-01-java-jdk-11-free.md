@@ -27,8 +27,8 @@ If you need a **commercial support** and you use the **OracleJDK** in production
 
 | JDK | Development | Production |
 |:-----------|:------------|:------------|
-| [OpenJDK](http://openjdk.java.net)    |        FREE |     FREE     |
-| [OracleJDK](http://www.oracle.com/technetwork/java/javaseproducts/overview/index.html)  |      FREE |    $$$    |
+| [OpenJDK](https://openjdk.java.net)    |        FREE |     FREE     |
+| [OracleJDK](https://www.oracle.com/technetwork/java/javaseproducts/overview/index.html)  |      FREE |    $$$    |
 
 **The still free JDK :)**
 
@@ -40,7 +40,7 @@ Here the explanations from Oracle:
 
 The sources:
 
-[https://blogs.oracle.com/java-platform-group/faster-and-easier-use-and-redistribution-of-java-sehttp://www.oracle.com/technetwork/java/javase/eol-135779.html]()
+[https://blogs.oracle.com/java-platform-group/faster-and-easier-use-and-redistribution-of-java-sehttps://www.oracle.com/technetwork/java/javase/eol-135779.html]()
 
 Alternatives?
 

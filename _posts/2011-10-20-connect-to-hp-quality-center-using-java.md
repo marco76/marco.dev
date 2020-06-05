@@ -26,7 +26,7 @@ here some variables that you will use:
 ex. how to connect to QC:
 
 <pre class="brush: java; title: ; notranslate" title="">private void connectQC(){
-    connection.initConnectionEx("http://youradress:84/qcbin");
+    connection.initConnectionEx("https://youradress:84/qcbin");
     connection.connectProjectEx("YOUR_DOMAIN", "YOUR_PROJECT", "UserName", "");
 
       bugFactory = (IBugFactory) connection.bugFactory().queryInterface(IBugFactory.class);

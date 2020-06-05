@@ -68,7 +68,7 @@ How to prepare a request with the token received from the server:
 
 ``` javascript
 sendRequestToTheBackend() {
-    return this.$http(method:'GET', url:'http://yourBackend/restResourceURL',
+    return this.$http(method:'GET', url:'https://yourBackend/restResourceURL',
     headers: this.getHeaders()
 })}
 

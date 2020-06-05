@@ -50,7 +50,7 @@ The pom.xml is quite empty &#8230;
 
 … we have to add the dependency on JSF and add the maven plugin to compile the sources and produce a war file to deploy …
 
-<pre class="brush: xml; title: ; notranslate" title="">&lt;project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"&gt;
+<pre class="brush: xml; title: ; notranslate" title="">&lt;project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd"&gt;
 &lt;modelVersion&gt;4.0.0&lt;/modelVersion&gt;
 &lt;groupId&gt;ch.javaee&lt;/groupId&gt;
 &lt;artifactId&gt;helloWorldTutorial&lt;/artifactId&gt;
@@ -100,8 +100,8 @@ In the web app folder we have to create a web.xml file
 <img title="webxml.png" alt="Webxml" src="{{site.baseurl}}/assets/img/uploads/2013/03/eclipsewebxml.png?resize=132%2C108" border="0" data-recalc-dims="1" />
 
 <pre class="brush: xml; title: ; notranslate" title="">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"&gt;
+&lt;web-app version="3.0" xmlns="https://java.sun.com/xml/ns/javaee"
+xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://java.sun.com/xml/ns/javaee https://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"&gt;
 &lt;display-name&gt;HelloWorldTutorial&lt;/display-name&gt;
 &lt;context-param&gt;
 &lt;param-name&gt;facelets.REFRESH_PERIOD&lt;/param-name&gt;
@@ -157,10 +157,10 @@ We have now to create the facelet page that shows the hello world message:
 
 <pre class="brush: xml; title: ; notranslate" title="">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-&lt;html xmlns="http://www.w3.org/1999/xhtml"
-xmlns:h="http://java.sun.com/jsf/html"
-xmlns:ui="http://java.sun.com/jsf/facelets"&gt;
+"https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml"
+xmlns:h="https://java.sun.com/jsf/html"
+xmlns:ui="https://java.sun.com/jsf/facelets"&gt;
 
 &lt;h:head&gt;&lt;/h:head&gt;
 

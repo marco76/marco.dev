@@ -25,7 +25,7 @@ introduction: 'Simple deploy of your fullstack app'
 
 For new projects I suggest that you separate your Angular application from your backend artifact (.war, .jar or different).
 
-If for some reasons (legacy, architecture etc.) you can only deploy a single artifact here you can find a solution that I adopted for the first version of http://javademo.io
+If for some reasons (legacy, architecture etc.) you can only deploy a single artifact here you can find a solution that I adopted for the first version of https://javademo.io
 
 
 ## One WAR with Spring Boot or Java EE
@@ -39,9 +39,9 @@ The parent pom simply declare the 2 modules to build. We import the maven-war-pl
 
 ``` xml
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="https://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>spring-ng-demo</groupId>
@@ -89,9 +89,9 @@ Finally, maven build a `.war` writing the JS files in the `META-INF/resources`.
 
 ``` xml
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="https://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>parent</artifactId>
         <groupId>spring-ng-demo</groupId>
@@ -168,9 +168,9 @@ You have to import the frontend module, the frontend code will be included in yo
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="https://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>parent</artifactId>
         <groupId>spring-ng-demo</groupId>

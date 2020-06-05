@@ -24,4 +24,4 @@ You started your ‘Hello World’ Java application and Visual VM … what are a
   * RMI TCP Accept-0, RMI TCP Connection …,&nbsp;RMI Scheduler, RMI Reaper: it handles the access to <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/rmi/hello/hello-world.html" target="_blank">remote objects</a>
   * JMX server connection: it allows the connections of JMX modules. It is created by com.sun.jmx.remote.internal.ServerCommunicationAdmin
   * DestroyJavaVM: the application is shutting down, wait for all non-daemon threads to end, then destroy the VM. It’s called in the java.c file
-  * GC Daemon:<a href="http://www.docjar.com/html/api/sun/misc/GC.java.html" target="_blank">Garbage collection thread</a>
+  * GC Daemon:<a href="https://www.docjar.com/html/api/sun/misc/GC.java.html" target="_blank">Garbage collection thread</a>

@@ -15,7 +15,7 @@ The projet has been launced by a small non-IT company, mantain a Server Park for
 
 The problem of this solution is that one server is very expensive and the approach to create multiple instances of Tomcat, mysql, &#8230; is a big risk in case of problem of one instance and it&#8217;s complicated in the configuration phase.
 
-The solution adopted is to install VMWare Server (you can do the same with Virtuozzo, XEN, &#8230;) and install an Ubuntu VM for each client. Ubuntu has a server edition conceived for the VMs ([Ubuntu JEOS](http://www.ubuntu.com/products/whatisubuntu/serveredition/jeos)). It needs only 128MB ram and 200 MB HD. We used Tomcat 6 (thanks Spring!!!) for this product (max 200MB for instance). 512 MB dedicated for each VM is largely sufficient.
+The solution adopted is to install VMWare Server (you can do the same with Virtuozzo, XEN, &#8230;) and install an Ubuntu VM for each client. Ubuntu has a server edition conceived for the VMs ([Ubuntu JEOS](https://www.ubuntu.com/products/whatisubuntu/serveredition/jeos)). It needs only 128MB ram and 200 MB HD. We used Tomcat 6 (thanks Spring!!!) for this product (max 200MB for instance). 512 MB dedicated for each VM is largely sufficient.
 
 Each client has a different ip port to connect to the appication. Configuring the nat.conf of VMWare on the server we can easily redirect the client request to his &#8216;dedicated server&#8217;. On a typical server with 4GB of ram we can install 8 VMs reducing the costs for us and the client.
 

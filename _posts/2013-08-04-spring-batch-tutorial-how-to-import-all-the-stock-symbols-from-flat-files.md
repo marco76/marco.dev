@@ -22,7 +22,7 @@ In the project I&#8217;ve included the files containing the list of symbols
   
 <img alt="Batch1" src="{{site.baseurl}}/assets/img/uploads/2013/08/batchEquitiesbatch1.png?resize=182%2C103" border="0" data-recalc-dims="1" />
 
-You can download the updated version of these files from the [nasdaq.com](http://www.nasdaq.com/screening/company-list.aspx) web site.
+You can download the updated version of these files from the [nasdaq.com](https://www.nasdaq.com/screening/company-list.aspx) web site.
 
 Example of the content:
   

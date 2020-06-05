@@ -5,7 +5,7 @@ date: 2016-09-26T19:12:10+00:00
 author: Marco Molteni
 layout: post
 main-class: 'angular'
-guid: http://ngjava.com/?p=67
+guid: https://ngjava.com/?p=67
 permalink: /2016/09/26/angular-js-and-java-dictionary/
 categories:
   - First Steps

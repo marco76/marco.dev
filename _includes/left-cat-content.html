@@ -3,7 +3,7 @@
     <div id="grid" class="row flex-grid">
         {% for post in site.posts %}
         {% if post.main-class == {{include.category}} %}
-        <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+        <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
             <span class="ribbon"><span>{{post.main-class}}</span></span>
             <div class="box-body">
                 <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">

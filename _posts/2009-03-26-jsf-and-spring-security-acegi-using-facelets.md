@@ -14,6 +14,6 @@ categories:
 ---
 Two tips for the people who is fighting with these technologies:
 
-1. Implement the login page: [here](http://ocpsoft.com/java/acegi-spring-security-jsf-login-page/) you have a great tutorial that explains how to implement a login page in JSF using Spring Security in only few lines of code. 
+1. Implement the login page: [here](https://ocpsoft.com/java/acegi-spring-security-jsf-login-page/) you have a great tutorial that explains how to implement a login page in JSF using Spring Security in only few lines of code. 
 
-2. Somebody is implementing the tags for jsf. You can try his library : [BodyGuard](http://faces.eti.br/2008/11/09/bodyguard-facelets-el-functions-for-spring-security/)
+2. Somebody is implementing the tags for jsf. You can try his library : [BodyGuard](https://faces.eti.br/2008/11/09/bodyguard-facelets-el-functions-for-spring-security/)

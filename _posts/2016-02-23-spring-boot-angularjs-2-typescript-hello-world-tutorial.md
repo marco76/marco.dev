@@ -51,18 +51,18 @@ The code is here:
 [https://github.com/marco76/spriNGdemo](https://github.com/marco76/spriNGdemo)
 
 ~~There is a Jenkins job that build the project here:~~
-~~[http://springdemo.io:8081/job/spring-demo-pipeline/](http://springdemo.io:8081/job/spring-demo-pipeline/)~~
+~~[https://springdemo.io:8081/job/spring-demo-pipeline/](https://springdemo.io:8081/job/spring-demo-pipeline/)~~
 
 ~~A quality analysis with SonarQube:~~
-~~[SonarQube](http://springdemo.io:9000/dashboard?id=spring-ng-demo%3Aparent%3Acandidate)~~
+~~[SonarQube](https://springdemo.io:9000/dashboard?id=spring-ng-demo%3Aparent%3Acandidate)~~
 
 ~~And a Docker deploy:~~
 ~~[molteni.io](https://molteni.io)~~
 
-~~The [Java EE Demo](http://javademo.io) will be updated in the future.~~
-~~The [springdemo.io](http://springdemo.io) won't be updated and will be replaced by the current molteni.io.~~
+~~The [Java EE Demo](https://javademo.io) will be updated in the future.~~
+~~The [springdemo.io](https://springdemo.io) won't be updated and will be replaced by the current molteni.io.~~
 
-_Update Apr. 11, 2017_ _Spring Boot 2.0 Angular Demo *I update the **Spring** Demo. The new demo uses Spring Boot 2.0 (beta) and Angular 4. Website: <http://springdemo.io> GitHub: <https://github.com/marco76/spriNGdemo> The old Spring example is here : <http://angular.cafe> , [GitHub](https://github.com/marco76/SpringAngular2TypeScript) *Java EE Angular Demo_ Because Java has a rich and wonderful community there is a similar demo for **Java EE** You can find the Angular 4 and Java EE demo here: <http://javademo.io> Post: <https://marco.dev/2017/04/06/java-angular-demo/> GitHub: <https://github.com/marco76/java-demo>
+_Update Apr. 11, 2017_ _Spring Boot 2.0 Angular Demo *I update the **Spring** Demo. The new demo uses Spring Boot 2.0 (beta) and Angular 4. Website: <https://springdemo.io> GitHub: <https://github.com/marco76/spriNGdemo> The old Spring example is here : <https://angular.cafe> , [GitHub](https://github.com/marco76/SpringAngular2TypeScript) *Java EE Angular Demo_ Because Java has a rich and wonderful community there is a similar demo for **Java EE** You can find the Angular 4 and Java EE demo here: <https://javademo.io> Post: <https://marco.dev/2017/04/06/java-angular-demo/> GitHub: <https://github.com/marco76/java-demo>
 
 Goal of the demo Java is a perfect technology for the modern development in few lines of code you can build rock solid backends. The demo is a showcase of how to integrate many features of Java EE and Spring in your next JavaScript application. The two demos
 
@@ -90,7 +90,7 @@ For the development there are 2 servers deployed: Webpack serves the Angular int
     mvn clean package java -jar [PARENT_MODULE]/server/target/server-0.14-SNAPSHOT.war cd [PARENT_MODULE]/webClient/src npm start
     
 
-go to http://localhost:8080
+go to https://localhost:8080
 
 #### Production
 
@@ -99,13 +99,13 @@ In the production mode one Java WAR (Tomcat embedded) containing the javascript
     mvn clean package java -jar [PARENT_MODULE]/server/target/server-0.14-SNAPSHOT.war
     
 
-open your browser and visit http://localhost:8082
+open your browser and visit https://localhost:8082
 
 #### Hello World Example
 
 In the example application (
   
-<http://angular.cafe/app-hello-world>) there is a very simple example of communication between the frontend and the backend. [<img class="alignnone size-full wp-image-1038" src="{{site.baseurl}}/assets/img/uploads/2016/02/2017-03-08_23-51-04.png?resize=469%2C202" alt="" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/02/2017-03-08_23-51-04.png) The frontend calls the backend service and &#8216;subscribes&#8217; the answer. The frontend waits backend answer before to execute the code in the subscription part: Code on GitHub: <https://github.com/marco76/SpringAngular2TypeScript/tree/master/webClient/src/app/hello-world> **The Controller**
+<https://angular.cafe/app-hello-world>) there is a very simple example of communication between the frontend and the backend. [<img class="alignnone size-full wp-image-1038" src="{{site.baseurl}}/assets/img/uploads/2016/02/2017-03-08_23-51-04.png?resize=469%2C202" alt="" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/02/2017-03-08_23-51-04.png) The frontend calls the backend service and &#8216;subscribes&#8217; the answer. The frontend waits backend answer before to execute the code in the subscription part: Code on GitHub: <https://github.com/marco76/SpringAngular2TypeScript/tree/master/webClient/src/app/hello-world> **The Controller**
 
     export class HelloWorld {
         // string to publish on the screen

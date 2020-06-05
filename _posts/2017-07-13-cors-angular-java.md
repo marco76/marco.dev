@@ -81,8 +81,8 @@ You have to update the `ALLOWED_ORIGINS` constant with the URL of the frontend s
 @Configuration
 public class CorsConfig {
 
-    private static final String[] ALLOWED_ORIGINS = {"http://localhost:3000",
-    "http://localhost:8080"};
+    private static final String[] ALLOWED_ORIGINS = {"https://localhost:3000",
+    "https://localhost:8080"};
 
     @Bean
     public WebMvcConfigurer corsConfigurer() {

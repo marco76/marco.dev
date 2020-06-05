@@ -31,7 +31,7 @@ styleUrls: ['app/hero-details.component.css']
     
     
 
-This configuration is challenging when you have building process that include Webpack. In our reference [example application](http://angular.cafe) the call of the css file using `styleUrl`
+This configuration is challenging when you have building process that include Webpack. In our reference [example application](https://angular.cafe) the call of the css file using `styleUrl`
 ```typescript
 @Component({
     selector: 'cv-experience',

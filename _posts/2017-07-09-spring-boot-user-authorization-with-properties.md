@@ -201,7 +201,7 @@ public class SecurityTest {
 
 ```
 
-Because we don't use the default UsernamePasswordAuthenticationToken we have to define a custom @WithMockOAuth2User similar to [@WithMockUser](http://docs.spring.io/spring-security/site/docs/current/reference/html/test-method.html#test-method-withmockuser) :
+Because we don't use the default UsernamePasswordAuthenticationToken we have to define a custom @WithMockOAuth2User similar to [@WithMockUser](https://docs.spring.io/spring-security/site/docs/current/reference/html/test-method.html#test-method-withmockuser) :
 
 ``` java
 
@@ -223,7 +223,7 @@ public class WithMockOAuth2SecurityContextFactory implements WithSecurityContext
         String clientId = "oauth-client-id";
         Map<String, String> requestParameters = Collections.emptyMap();
         boolean approved = true;
-        String redirectUrl = "http://test.ch";
+        String redirectUrl = "https://test.ch";
         Set<String> responseTypes = Collections.emptySet();
         Set<String> scopes = Collections.emptySet();
         Set<String> resourceIds = Collections.emptySet();

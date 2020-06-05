@@ -60,4 +60,4 @@ To use these properties in your applicationContext.xml file:
   &lt;/bean&gt;
 </pre>
 
-[Spring reference](http://static.springframework.org/spring/docs/2.5.x/api/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.html)
+[Spring reference](https://static.springframework.org/spring/docs/2.5.x/api/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.html)

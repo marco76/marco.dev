@@ -34,7 +34,7 @@ If you cannot find the library try to use the search features of Windows. This l
 
 **2. Download com4j**
 
-<http://java.net/projects/com4j/downloads>
+<https://java.net/projects/com4j/downloads>
 
 When you downloaded the library you have to unzip it. As example I unzipped it in the dev folder.
 

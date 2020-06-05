@@ -99,7 +99,7 @@ As alternative you can use the WildFly UI:
 - add your user to your instance
 `[WILDFLY_HOME]/bin/add-user.sh`
 
-Add the Datasource in: `http://127.0.0.1:9990`
+Add the Datasource in: `https://127.0.0.1:9990`
 
 ## Errors
  

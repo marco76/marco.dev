@@ -13,11 +13,11 @@ categories:
 ---
 Create a FB application is funny and easy with Java. There are some open source libraries that can help you to achieve your goal. You find these libraires here :
   
-<http://wiki.developers.facebook.com/index.php/Java>
+<https://wiki.developers.facebook.com/index.php/Java>
   
 I used the facebook-java-api to create this tutorial. It’s a good library but unfortunately it miss documentation (in the traditional OSS old style 😉 )
   
-<http://code.google.com/p/facebook-java-api/>
+<https://code.google.com/p/facebook-java-api/>
   
 I used SpringMVC as framework, it’s very easy to pass values to web pages with Spring.
   

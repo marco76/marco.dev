@@ -34,7 +34,7 @@ The application is very limited and has been created for educational purpose onl
 
 **1.** **Read a webpage content (REST/HTTPs)**
 
-With Android if you want to read a webpage you have to create a thread. Android doesn&#8217;t allow you to open an URL connection from the Main (thread) because it could be resource intensive and time consuming. If you try to use the main Thread you will get this exception [android.os.NetworkOnMainThreadException](http://developer.android.com/reference/android/os/NetworkOnMainThreadException.html).
+With Android if you want to read a webpage you have to create a thread. Android doesn&#8217;t allow you to open an URL connection from the Main (thread) because it could be resource intensive and time consuming. If you try to use the main Thread you will get this exception [android.os.NetworkOnMainThreadException](https://developer.android.com/reference/android/os/NetworkOnMainThreadException.html).
 
 In our case we are calling a [Yahoo service using YQL](https://developer.yahoo.com/yql/) with the following URL : [https://query.yahooapis.com/v1/public/yql?q=select%20LastTradePriceOnly%20from%20yahoo.finance.quote%20where%20symbol%20in%20(%22GOOG%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback= ](https://query.yahooapis.com/v1/public/yql?q=select%20LastTradePriceOnly%20from%20yahoo.finance.quote%20where%20symbol%20in%20(%22GOOG%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback=)
 
@@ -42,7 +42,7 @@ And we wait an answer in JSON format similar to this one.
 
 <pre style="color: #000000; word-wrap: break-word; white-space: pre-wrap;">{"query":{"count":1,"created":"2016-01-27T08:42:41Z","lang":"en-US","results":{"quote":{"LastTradePriceOnly":"713.04"}}}}</pre>
 
-In our application we create a Task in the main thread using [ExecutorService](http://developer.android.com/reference/java/util/concurrent/ExecutorService.html) and [Future](http://developer.android.com/reference/java/util/concurrent/Future.html):
+In our application we create a Task in the main thread using [ExecutorService](https://developer.android.com/reference/java/util/concurrent/ExecutorService.html) and [Future](https://developer.android.com/reference/java/util/concurrent/Future.html):
 
 <pre class="brush: java; title: ; notranslate" title="">private String readFromWeb() {  
         // THREAD  
@@ -84,7 +84,7 @@ The result is stored in the String jsonString.
 
 **2. Parse JSON**
 
-Now we have our json result in a String. We can easily transform the String in a JSON object with the function &#8230; [JSONObject](http://developer.android.com/reference/org/json/JSONObject.html):
+Now we have our json result in a String. We can easily transform the String in a JSON object with the function &#8230; [JSONObject](https://developer.android.com/reference/org/json/JSONObject.html):
 
 Because of the nature of the answer (multiple level JSON objects) we have to create a new JSON object for each level
 
@@ -100,4 +100,4 @@ Because of the nature of the answer (multiple level JSON objects) we have to cre
     }
 </pre>
 
-We get the price result with [getString()](http://developer.android.com/reference/org/json/JSONObject.html#getString(java.lang.String));
+We get the price result with [getString()](https://developer.android.com/reference/org/json/JSONObject.html#getString(java.lang.String));

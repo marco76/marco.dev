@@ -22,13 +22,13 @@ categories:
 
 Here the command to install locally: `docker pull javaee/angular2-java-hello-world`
 
-The app is still very simple and it is visible here: <http://angular.cafe>
+The app is still very simple and it is visible here: <https://angular.cafe>
 
 You can start the docker image with the following command:
   
 `docker run --name angular -d -p 8080:8082 javaee/angular2-java-hello-world`
 
-The app will be visible on <a href="http:// http://localhost:8080" target="_blank">http://localhost:8080</a>
+The app will be visible on <a href="https:// https://localhost:8080" target="_blank">https://localhost:8080</a>
 
 I will add soon new features with the comments that explains how to implement them:
   

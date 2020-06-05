@@ -26,7 +26,7 @@ tags:
   - spring boot
   - webpack
 ---
-I update the reference Angular/Java application for this blog (<http://angular.cafe>) adding [Bootstrap](http://getbootstrap.com/css/).
+I update the reference Angular/Java application for this blog (<https://angular.cafe>) adding [Bootstrap](https://getbootstrap.com/css/).
   
 The new homepage is now like this:
 

@@ -39,7 +39,7 @@ If the page is not found a simple redirection to the frontend page get the work 
 
 A different approach uses a Spring `@controller` on the backend. In this example all the links (controllers) of the frontend are prefixed with ‘app’.
 
-The controller receives the request and forward it to the frontend that open the correct page. This solution is implemented in the example: [angular.cafe](http://angular.cafe)
+The controller receives the request and forward it to the frontend that open the correct page. This solution is implemented in the example: [angular.cafe](https://angular.cafe)
 
     package ch.javaee.demo.angular2.web;
     

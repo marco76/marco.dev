@@ -42,14 +42,14 @@ hg --version
 Example for Java 12:
 
 ```
-hg clone http://hg.openjdk.java.net/jdk/jdk12
+hg clone https://hg.openjdk.java.net/jdk/jdk12
 ```
 
 ... it will take a while ...
 
 Here you can find the list of the available repositories:
 
-[http://hg.openjdk.java.net/jdk]()
+[https://hg.openjdk.java.net/jdk]()
 
 When cloned, enter in the directory with the sources
 
@@ -89,9 +89,9 @@ Enjoy it and contribute! ;-)
 
 [Bug Dashboard](https://bugs.openjdk.java.net/secure/Dashboard.jspa)
 
-[How to contribute](http://openjdk.java.net/contribute/)
+[How to contribute](https://openjdk.java.net/contribute/)
 
-[Build, detailed instructions](http://cr.openjdk.java.net/~ihse/demo-new-build-readme/common/doc/building.html#tldr-instructions-for-the-impatient)
+[Build, detailed instructions](https://cr.openjdk.java.net/~ihse/demo-new-build-readme/common/doc/building.html#tldr-instructions-for-the-impatient)
 
 [Unofficial GitHub Repo](Very useful to navigate the sources)
 

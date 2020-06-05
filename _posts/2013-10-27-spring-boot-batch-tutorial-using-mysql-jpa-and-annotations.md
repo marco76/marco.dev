@@ -26,7 +26,7 @@ I used the same architecture in a production software. Spring Boot is great to i
 
 You can find the complete example here:
   
-<http://github.com/marco76/springBootBatch>
+<https://github.com/marco76/springBootBatch>
 
 The only requirement is to have a mysql database installed.
   
@@ -183,7 +183,7 @@ The annotation
 ```
 
 
-is specific to Spring Boot, you can read more about this annotation here:[Spring Boot auto configure](http://github.com/spring-projects/spring-boot/tree/97cb7f096798ecd016de71f892fa55585d45f5eb/spring-boot-autoconfigure#spring-boot---autoconfigure)
+is specific to Spring Boot, you can read more about this annotation here:[Spring Boot auto configure](https://github.com/spring-projects/spring-boot/tree/97cb7f096798ecd016de71f892fa55585d45f5eb/spring-boot-autoconfigure#spring-boot---autoconfigure)
 
 ``` java
 @Configuration

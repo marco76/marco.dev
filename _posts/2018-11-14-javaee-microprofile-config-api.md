@@ -114,7 +114,7 @@ import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 
 // with @Path we define the url of the endpoint:
-// http://javademo.io/api/example
+// https://javademo.io/api/example
 @Path("example")
 public class ExampleResource {
 
