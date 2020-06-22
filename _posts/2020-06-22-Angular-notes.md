@@ -34,7 +34,7 @@ If you are using MacOS, https://formulae.brew.sh/formula/nvm:
 `
 brew install nvm
 `
-If you are using `zsh` (MacOS 15.x) you have to update `.zshrc` according to the documentation of Homebrew.
+If you are using `zsh` (MacOS 10.15) you have to update `.zshrc` according to the documentation of Homebrew.
 
 _Commands_
 - Install the latest node version: `nvm install node`
