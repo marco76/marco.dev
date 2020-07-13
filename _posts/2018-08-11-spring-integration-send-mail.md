@@ -1,6 +1,6 @@
 ---
 title: 'Spring Integration mail'
-description: ''
+description: 'Spring core tutorial. How to send an email.'
 date: 2018-08-11T10:41:48+00:00
 author: Marco Molteni
 layout: post

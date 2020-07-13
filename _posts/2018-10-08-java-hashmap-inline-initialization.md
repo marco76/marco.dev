@@ -1,6 +1,6 @@
 ---
 title: 'HashMap inline initialization'
-description: ''
+description: 'Hashmap initalization with a lambda stream'
 date: 2018-10-08T10:41:48+00:00
 author: Marco Molteni
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: 'Artificial Intelligence for Java: resources'
-description: 'Machine Learning and Artificial Intelligence for Java'
+description: 'Java Machine Learning: Machine Learning and Artificial Intelligence without Python'
 date: 2019-11-24T01:41:48+00:00
 author: Marco Molteni
 layout: post
