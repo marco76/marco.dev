@@ -75,4 +75,16 @@ insertAndShift(originalArray, fromIndex, toIndex) {
  }
 ```
 
+## How to check Angular CLI version
+`npm @angular/cli -v`
+
+## How to check Angular version
+`npm @angular -v`
+
+## How to uninstall Angular CLI
+`npm uninstall @angular/cli`
+
+
+
+
 
