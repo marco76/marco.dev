@@ -21,11 +21,13 @@ introduction: 'Search a dependency in a maven tree'
 ## Did you get a warning with maven, your pom.xml has problems, what to do?
 
 When you build your maven project you could have an error or a warning like:
+
 `[WARNING] The POM for com.sun.xml.bind:jaxb-osgi:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details`
 
 How to find the dependency that include jaxb-osgi?
 
 You can ask maven to show the chain of dependencies until this package:
+
 `mvn dependency:tree -Dincludes=com.sun.xml.bind:jaxb-osgi:jar`
 
 You will have a result similar to this one:
