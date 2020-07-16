@@ -3,3 +3,11 @@
   to = "/angular-java-deploy"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/2012/11/02/198/"
+  to = "/persistence-eclipselink"
+  status = 301
+  force = true
+
+

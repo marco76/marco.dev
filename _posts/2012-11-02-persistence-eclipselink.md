@@ -1,10 +1,11 @@
 ---
 id: 198
-title: Multiple persistence units in persistence.xml using EclipseLink
+title: 'Multiple persistence units in persistence.xml using EclipseLink'
+description: ''
 date: 2012-11-02T13:03:49+00:00
 author: Marco Molteni
 layout: post
-permalink: /2012/11/02/198/
+permalink: /persistence-eclipselink
 main-class: 'javaee'
 color: '#7AAB13'
 categories:
@@ -35,6 +36,7 @@ Here one example about how to configure the persistence using JPA, EclipseLink, 
 </persistence>
 ```
 
+
 2) I had to create a second persistence unit in persistence.xml to connect to a second database.
 
 ```xml
@@ -48,17 +50,20 @@ Here one example about how to configure the persistence using JPA, EclipseLink, 
 </properties>
 ```
 
+
 When I rebuilt the app I add the following error:
 
 ```java
 java.lang.RuntimeException: javax.annotation.processing.FilerException: Attempt to recreate a file for type
 ```
 
+
 3) to solve the issue I had to define for each persistence unit his own classes and change 
 
 ```xml
 <exclude-unlisted-classes>
 ```
+
 
 to false:
 
@@ -79,9 +84,10 @@ to false:
     </properties>
 ```
 
+
 4) I rebuilt and I got again the same error.
   
-adding for the first persisitence unit :
+adding for the first persistence unit :
 
 ```xml
 <property name="eclipselink.canonicalmodel.subpackage" value="one"/>
@@ -95,6 +101,7 @@ adding for the first persisitence unit :
   <property name="eclipselink.canonicalmodel.subpackage" value="one"/>
 </properties>
 ```
+
 
 and for the second persistence unit : 
 

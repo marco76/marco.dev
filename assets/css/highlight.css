@@ -1,36 +1,45 @@
-.highlight table td { padding: 5px; }
-.highlight table pre { margin: 0; }
-.highlight, .highlight .w {
-  padding: 30px 30px 30px 30px;
+.highlight {
+  margin-bottom: 25px;
+  width: 80vw;
+  border-radius: 25px;
+  padding: 10px 10px 10px 10px;
+  line-height: 1.5;
+  margin-left: auto;
+  margin-right: auto;
+}
+.highlight  table td { padding: 5px; }
+.highlight  table pre { margin: 0; }
+.highlight , .highlight  .w {
+  padding: 10px 10px 10px 10px;
   color: #d0d0d0;
   background-color: #151515;
 }
-.highlight .err {
+.highlight  .err {
   color: #151515;
   background-color: #ac4142;
 }
-.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, .highlight .cs {
+.highlight  .c, .highlight  .ch, .highlight  .cd, .highlight  .cm, .highlight  .cpf, .highlight  .c1, .highlight  .cs {
   color: #505050;
 }
-.highlight .cp {
+.highlight  .cp {
   color: #f4bf75;
 }
-.highlight .nt {
+.highlight  .nt {
   color: #f4bf75;
 }
-.highlight .o, .highlight .ow {
+.highlight  .o, .highlight  .ow {
   color: #d0d0d0;
 }
-.highlight .p, .highlight .pi {
+.highlight  .p, .highlight  .pi {
   color: #d0d0d0;
 }
-.highlight .gi {
+.highlight  .gi {
   color: #90a959;
 }
-.highlight .gd {
+.highlight  .gd {
   color: #ac4142;
 }
-.highlight .gh {
+.highlight  .gh {
   color: #6a9fb5;
   background-color: #151515;
   font-weight: bold;
