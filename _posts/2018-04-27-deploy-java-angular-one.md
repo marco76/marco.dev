@@ -6,7 +6,7 @@ author: Marco Molteni
 layout: post
 main-class: 'angular'
 color: '#7AAB13'
-permalink: /2018/04/26/deploy-java-angular-one/
+permalink: /angular-java-deploy
 categories:
   - Angular
   - TypeScript
