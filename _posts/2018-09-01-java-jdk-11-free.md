@@ -17,6 +17,8 @@ image: '/assets/img/'
 introduction: 'OpenJDK 11 is free, for OracleJDK you have to pay for production environments. More details here.'
 ---
 
+You can follow the latest updates in Java here: [Java-version.com](https://java-version.com)
+
 # Should I pay to use Java 11 in production?
 
 **In short ... Don't worry! OpenJDK is free!**

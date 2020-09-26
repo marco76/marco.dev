@@ -17,6 +17,8 @@ image: '/assets/img/'
 introduction: 'Here some of the new features of Java 11 with a direct impact on the daily development activity.'
 ---
 
+You can follow the latest updates in Java here: [Java-version.com](https://java-version.com)
+
 # What's new in Java 11 (Open JDK)
 
 ## Some of the new features in Java 11

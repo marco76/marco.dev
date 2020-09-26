@@ -14,6 +14,9 @@ tags:
 
 introduction: 'What''s new in Java 14'
 ---
+
+You can follow the latest updates in Java here: [Java-version.com](https://java-version.com)
+
 _this post is still work in progress it will be updated regularly and often in the future_
 
 - Java 14 Enhancements official page: [https://openjdk.java.net/projects/jdk/14/](https://openjdk.java.net/projects/jdk/14/)
