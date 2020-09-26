@@ -9,9 +9,9 @@ main-class: 'svelte'
 color: '#7AAB13'
 permalink: /svelte-sapper-deploy
 categories:
-  - Svelte
+  - Angular
 tags:
-  - Svelte
+  - Angular, Svelte
 
 introduction: 'Deploy a Svelte / Sapper application'
 ---
@@ -44,6 +44,10 @@ EXPOSE 3000
 
 ENV HOST=0.0.0.0
 ```
+
+In Jelastic:
+<img src="/assets/img/uploads/2020/2020-09-26_jelastic.gif" alt=""/>
+
 
 I deployed the image behind a NGINX Load Balancer.
 
