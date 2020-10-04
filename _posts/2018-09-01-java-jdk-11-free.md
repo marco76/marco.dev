@@ -44,6 +44,6 @@ The sources:
 
 [https://blogs.oracle.com/java-platform-group/faster-and-easier-use-and-redistribution-of-java-sehttps://www.oracle.com/technetwork/java/javase/eol-135779.html]()
 
-Alternatives?
+### New features?
 
-As alternative to the OracleJDK you have:
+All the new features of every Java version: [https://java-version.com](https://java-version.com)

@@ -65,4 +65,3 @@ but at the end you should have your the sources ready under hpqc/com/qc:
 
 You can import these sources to connect and use QC from your application.
 
-More details in the next tutorial …
