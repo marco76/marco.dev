@@ -1,6 +1,6 @@
 ---
 title: 'Deploy a Svelte / Sapper application'
-description: 'Deploy Svelte'
+description: 'Deploy Svelte and Sapper in the cloud'
 date: 2020-09-26T01:41:48+00:00
 created: 2020-09-26T01:41:48+00:00
 author: Marco Molteni
