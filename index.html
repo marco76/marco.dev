@@ -20,8 +20,7 @@ layout: default
                 <div class="box-body">
                     <meta itemprop="dateModified" content="{{post.date | date_to_xmlschema }}">
                     <time itemprop="dateModified" datetime="{{ post.date }}" class="date" style="font-size: 0.5em">Updated: {{ post.date | date_to_string }}</time>
-
-                 `   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
                             {{ post.title }}
                         </h2>
