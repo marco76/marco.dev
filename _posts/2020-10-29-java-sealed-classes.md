@@ -2,7 +2,7 @@
 published: true
 title: 'Java sealed classes - Quick intro'
 description: 'Java 15 new features. Java sealed classes tutorial'
-date: 2020-10-28T01:41:48+00:00
+date: 2020-10-29T01:41:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'java'
