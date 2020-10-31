@@ -20,10 +20,11 @@ introduction: 'Right click custom menu inside dynamic lists with Angular Materia
 ## Create a right click context menu inside a dynamic list or table
 
 [GitHub demo](https://github.com/marco76/angular-right-click-menu)
-<img src="/assets/img/uploads/2020/blog-right-click.gif" alt="" style="width: 25%; height:25%"/>
+<img src="/assets/img/uploads/2020/blog-right-click-2.gif" alt="" style="width: 50%"/>
 
-In this use case, we need to link each element of a list or table to a right-click context [mat-menu](https://material.angular.io/components/menu/overview).
-To solve the problem we need to dynamically create the menu after each click.
+We need to link each element of a list or table to a right-click context [mat-menu](https://material.angular.io/components/menu/overview).
+
+The list elements and their menu are generated only at runtime. To generate dynamically the menu we create an hidden `div` with the coordinates of the mouse.
 
 ### Component code
 
