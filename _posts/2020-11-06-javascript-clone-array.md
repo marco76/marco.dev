@@ -7,7 +7,7 @@ author: Marco Molteni
 layout: post
 main-class: 'javascript'
 color: '#7AAB13'
-permalink: /javascript-clone-array
+permalink: /javascript-duplicate-array
 categories:
   - JavaScript
 tags:
